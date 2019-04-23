@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Peng Hu
+PhD candidate, College of Computer Science, Sichuan University
+Email: penghu.ml[AT]gmail.com
 
-You can use the [editor on GitHub](https://github.com/penghu-cs/penghu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Welcome to my homepage. 
+I received the B.Sc. degree in computer science and technology from the Southwest University of Science and Technology and the M.Sc. degree in computer science and technology from Sichuan University, China, in 2013 and 2016. He is currently pursuing the Ph.D. degree in the College of Computer Science, Sichuan University. His current research interests include multi-view learning, cross-media analysis, and deep learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Research Interests
+Multi-view learning, cross-media analysis, and deep learning.
 
-### Markdown
+# Papers
+- **Peng Hu***, Liangli Zhen*, Dezhong Peng, Pei Liu, Scalable deep multimodal learning for cross-Modal re- trieval[C]. 42nd International ACM SIGIR Conference on Research and Development in Informa- tion Retrieval (SIGIR). Paris, France, July 21-25, 2019. (*indicates equal contribution, Oral, Full Paper, accepted, 20% acceptance)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Liangli Zhen*, **Peng Hu***, Xu Wang, Dezhong Peng, Deep supervised cross-modal retrieval[C], 32th IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, USA, Jun. 16{20, 2019. (*indicates equal contribution, Full Paper, accepted, 25.2% acceptance)
 
-```markdown
-Syntax highlighted code block
+- **Peng Hu**, Liangli Zhen, Jixiang Guo, Liangli Zhen, Local feature based multi-view discriminant analysis[J]. Knowledge-Based Systems, 2018, 149: 34-46.
 
-# Header 1
-## Header 2
-### Header 3
+-Peng Hu, Liangli Zhen, Yongsheng Sang, Yong Xiang, Multi-view linear discriminant analysis network[J]. IEEE Transaction on Image Processing (TIP). (accepted)
 
-- Bulleted
-- List
+- **Peng Hu**, Dezhong Peng, Yi Zhang, Yong Xiang, Robust time-spread echo watermarking using characteristics of host signals[J]. Electronics Letters, 2016, 52(1): 5-6.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/penghu-cs/penghu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Xu Wang,  Dezhong Peng, **Peng Hu**, Yongsheng Sang, Adversarial correlated autoencoder for unsupervised multi- view representation learning[J]. Knowledge-Based Systems, 2019, 168: 109-120.
