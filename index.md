@@ -15,8 +15,8 @@ Multi-view learning, cross-media analysis, and deep learning.
 
 - **Peng Hu**, Liangli Zhen, Yongsheng Sang, Yong Xiang, Multi-view linear discriminant analysis network[J]. IEEE Transaction on Image Processing (TIP). (accepted)
 
+- Xu Wang,  Dezhong Peng, **Peng Hu**, Yongsheng Sang, Adversarial correlated autoencoder for unsupervised multi- view representation learning[J]. Knowledge-Based Systems, 2019, 168: 109-120.
+
 - **Peng Hu**, Liangli Zhen, Jixiang Guo, Liangli Zhen, Local feature based multi-view discriminant analysis[J]. Knowledge-Based Systems, 2018, 149: 34-46.
 
 - **Peng Hu**, Dezhong Peng, Yi Zhang, Yong Xiang, Robust time-spread echo watermarking using characteristics of host signals[J]. Electronics Letters, 2016, 52(1): 5-6.
-
-- Xu Wang,  Dezhong Peng, **Peng Hu**, Yongsheng Sang, Adversarial correlated autoencoder for unsupervised multi- view representation learning[J]. Knowledge-Based Systems, 2019, 168: 109-120.
