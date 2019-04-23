@@ -4,7 +4,7 @@ PhD candidate, College of Computer Science, Sichuan University
 Email: penghu.ml[AT]gmail.com
 
 # Welcome to my homepage. 
-I received the B.Sc. degree in computer science and technology from the Southwest University of Science and Technology and the M.Sc. degree in computer science and technology from Sichuan University, China, in 2013 and 2016. He is currently pursuing the Ph.D. degree in the College of Computer Science, Sichuan University. His current research interests include multi-view learning, cross-media analysis, and deep learning.
+I received the B.Sc. degree in computer science and technology from the Southwest University of Science and Technology and the M.Sc. degree in computer science and technology from Sichuan University, China, in 2013 and 2016. I am currently pursuing the Ph.D. degree in the College of Computer Science, Sichuan University.
 
 # Research Interests
 Multi-view learning, cross-media analysis, and deep learning.
