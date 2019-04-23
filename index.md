@@ -15,7 +15,7 @@ Multi-view learning, cross-media analysis, and deep learning.
 
 - **Peng Hu**, Liangli Zhen, Jixiang Guo, Liangli Zhen, Local feature based multi-view discriminant analysis[J]. Knowledge-Based Systems, 2018, 149: 34-46.
 
--Peng Hu, Liangli Zhen, Yongsheng Sang, Yong Xiang, Multi-view linear discriminant analysis network[J]. IEEE Transaction on Image Processing (TIP). (accepted)
+- Peng Hu, Liangli Zhen, Yongsheng Sang, Yong Xiang, Multi-view linear discriminant analysis network[J]. IEEE Transaction on Image Processing (TIP). (accepted)
 
 - **Peng Hu**, Dezhong Peng, Yi Zhang, Yong Xiang, Robust time-spread echo watermarking using characteristics of host signals[J]. Electronics Letters, 2016, 52(1): 5-6.
 
