@@ -9,9 +9,9 @@ I received the B.Sc. degree in computer science and technology from the Southwes
 Multi-view learning, cross-media analysis, and deep learning.
 
 # Papers
-- **Peng Hu***, Liangli Zhen*, Dezhong Peng, Pei Liu, Scalable deep multimodal learning for cross-Modal re- trieval[C]. 42nd International ACM SIGIR Conference on Research and Development in Informa- tion Retrieval (SIGIR). Paris, France, July 21-25, 2019. (*indicates equal contribution, Oral, Full Paper, accepted, 20% acceptance)
+- **Peng Hu**\*, Liangli Zhen\*, Dezhong Peng, Pei Liu, Scalable deep multimodal learning for cross-Modal re- trieval[C]. 42nd International ACM SIGIR Conference on Research and Development in Informa- tion Retrieval (SIGIR). Paris, France, July 21-25, 2019. (*indicates equal contribution, Oral, Full Paper, accepted, 20% acceptance)
 
-- Liangli Zhen*, **Peng Hu***, Xu Wang, Dezhong Peng, Deep supervised cross-modal retrieval[C], 32th IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, USA, Jun. 16{20, 2019. (*indicates equal contribution, Full Paper, accepted, 25.2% acceptance)
+- Liangli Zhen\*, **Peng Hu**\*, Xu Wang, Dezhong Peng, Deep supervised cross-modal retrieval[C], 32th IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, USA, Jun. 16{20, 2019. (*indicates equal contribution, Full Paper, accepted, 25.2% acceptance)
 
 - **Peng Hu**, Liangli Zhen, Jixiang Guo, Liangli Zhen, Local feature based multi-view discriminant analysis[J]. Knowledge-Based Systems, 2018, 149: 34-46.
 
