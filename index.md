@@ -13,9 +13,9 @@ Multi-view learning, cross-media analysis, and deep learning.
 
 - Liangli Zhen\*, **Peng Hu**\*, Xu Wang, Dezhong Peng, Deep supervised cross-modal retrieval[C], 32th IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, USA, Jun. 16{20, 2019. (*indicates equal contribution, Full Paper, accepted, 25.2% acceptance)
 
-- **Peng Hu**, Liangli Zhen, Jixiang Guo, Liangli Zhen, Local feature based multi-view discriminant analysis[J]. Knowledge-Based Systems, 2018, 149: 34-46.
-
 - Peng Hu, Liangli Zhen, Yongsheng Sang, Yong Xiang, Multi-view linear discriminant analysis network[J]. IEEE Transaction on Image Processing (TIP). (accepted)
+
+- **Peng Hu**, Liangli Zhen, Jixiang Guo, Liangli Zhen, Local feature based multi-view discriminant analysis[J]. Knowledge-Based Systems, 2018, 149: 34-46.
 
 - **Peng Hu**, Dezhong Peng, Yi Zhang, Yong Xiang, Robust time-spread echo watermarking using characteristics of host signals[J]. Electronics Letters, 2016, 52(1): 5-6.
 
