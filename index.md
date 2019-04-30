@@ -1,4 +1,4 @@
-# Peng Hu
+Peng Hu\\
 Ph.D. candidate, College of Computer Science, Sichuan University \\
 Email: penghu.ml[AT]gmail.com
 
