@@ -6,7 +6,7 @@ Email: penghu.ml[AT]gmail.com
 I received the B.Eng. degree in computer science and technology from the Southwest University of Science and Technology and the M.Sc. degree in computer science and technology from Sichuan University, China, in 2013 and 2016. I am currently pursuing the Ph.D. degree in the College of Computer Science, Sichuan University.
 
 # Research Interests
-Deep neural networks; Multi-view Learning; Cross-modal Retrieval; Audio watermarking.
+Deep Neural Networks; Multi-view Learning; Cross-modal Retrieval; Audio watermarking.
 
 # Papers
 - **Peng Hu**\*, Liangli Zhen\*, Dezhong Peng, Pei Liu, Scalable deep multimodal learning for cross-modal retrieval. International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), accepted, 2019. (Full paper for oral presentation)
