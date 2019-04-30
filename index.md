@@ -2,11 +2,11 @@ Peng Hu\\
 Ph.D. candidate, College of Computer Science, Sichuan University \\
 Email: penghu.ml[AT]gmail.com
 
-# Welcome to my homepage. 
+# Education
 I received the B.Eng. degree in computer science and technology from the Southwest University of Science and Technology and the M.Sc. degree in computer science and technology from Sichuan University, China, in 2013 and 2016. I am currently pursuing the Ph.D. degree in the College of Computer Science, Sichuan University.
 
 # Research Interests
-Multi-view learning, cross-media analysis, and deep learning.
+Deep neural networks; Multi-view Learning; Cross-modal Retrieval; Audio watermarking.
 
 # Papers
 - **Peng Hu**\*, Liangli Zhen\*, Dezhong Peng, Pei Liu, Scalable deep multimodal learning for cross-Modal retrieval[C]. 42nd International ACM SIGIR Conference on Research and Development in Informa- tion Retrieval (SIGIR). Paris, France, July 21-25, 2019. (*indicates equal contribution, Oral, Full Paper, accepted, 20% acceptance)
