@@ -13,10 +13,10 @@ Deep Neural Networks; Multi-view Learning; Cross-modal Retrieval; Audio Watermar
 
 - Liangli Zhen\*, **Peng Hu**\*, Xu Wang, Dezhong Peng, Deep supervised cross-modal retrieval, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), accepted, 2019.
 
-- **Peng Hu**, Dezhong Peng, Yongsheng Sang, Yong Xiang, Multi-view linear discriminant analysis network. IEEE Transaction on Image Processing (TIP), in press, 2019.
+- **Peng Hu**, Dezhong Peng, Yongsheng Sang, Yong Xiang, [Multi-view linear discriminant analysis network](https://ieeexplore.ieee.org/document/8704986). IEEE Transaction on Image Processing (TIP), in press, 2019.
 
-- Xu Wang, Dezhong Peng, **Peng Hu**, Yongsheng Sang, Adversarial correlated autoencoder for unsupervised multi- view representation learning[J]. Knowledge-Based Systems, 2019, 168: 109-120.
+- Xu Wang, Dezhong Peng, **Peng Hu**, Yongsheng Sang, [Adversarial correlated autoencoder for unsupervised multi-view representation learning](https://www.sciencedirect.com/science/article/pii/S0950705119300176)[J]. Knowledge-Based Systems, 2019, 168: 109-120.
 
-- **Peng Hu**, Dezhong Peng, Jixiang Guo, Liangli Zhen, Local feature based multi-view discriminant analysis[J]. Knowledge-Based Systems, 2018, 149: 34-46.
+- **Peng Hu**, Dezhong Peng, Jixiang Guo, Liangli Zhen, [Local feature based multi-view discriminant analysis](https://www.sciencedirect.com/science/article/pii/S0950705118300595)[J]. Knowledge-Based Systems, 2018, 149: 34-46.
 
-- **Peng Hu**, Dezhong Peng, Yi Zhang, Yong Xiang, Robust time-spread echo watermarking using characteristics of host signals[J]. Electronics Letters, 2016, 52(1): 5-6.
+- **Peng Hu**, Dezhong Peng, Yi Zhang, Yong Xiang, [Robust time-spread echo watermarking using characteristics of host signals](https://ieeexplore.ieee.org/abstract/document/7374810)[J]. Electronics Letters, 2016, 52(1): 5-6.
