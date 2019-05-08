@@ -9,11 +9,11 @@ I received the B.Eng. degree in computer science and technology from the Southwe
 Deep Neural Networks; Multi-view Learning; Cross-modal Retrieval; Audio Watermarking.
 
 # Papers
-- **Peng Hu**, Dezhong Peng, Xu Wang, Yong Xiang, Multimodal Adversarial Network for Cross-modal Retrieval, Knowledge-Based Systems, In press, 2019. \[[code](https://github.com/penghu-cs/MAN)\]
+- **Peng Hu**, Dezhong Peng, Xu Wang, Yong Xiang, Multimodal Adversarial Network for Cross-modal Retrieval[J], Knowledge-Based Systems, In press, 2019. \[[code](https://github.com/penghu-cs/MAN)\]
 
-- **Peng Hu**\*, Liangli Zhen\*, Dezhong Peng, Pei Liu, Scalable deep multimodal learning for cross-modal retrieval. International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), accepted, 2019. (*denotes equal contribution, Full paper for oral presentation)
+- **Peng Hu**\*, Liangli Zhen\*, Dezhong Peng, Pei Liu, Scalable deep multimodal learning for cross-modal retrieval[C]. International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), accepted, 2019. (*denotes equal contribution, Full paper for oral presentation)
 
-- Liangli Zhen\*, **Peng Hu**\*, Xu Wang, Dezhong Peng, Deep supervised cross-modal retrieval, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), accepted, 2019. (*denotes equal contribution)
+- Liangli Zhen\*, **Peng Hu**\*, Xu Wang, Dezhong Peng, Deep supervised cross-modal retrieval[C], IEEE Conference on Computer Vision and Pattern Recognition (CVPR), accepted, 2019. (*denotes equal contribution)
 
 - **Peng Hu**, Dezhong Peng, Yongsheng Sang, Yong Xiang, [Multi-view linear discriminant analysis network](https://ieeexplore.ieee.org/document/8704986)[J]. IEEE Transaction on Image Processing (TIP), Online Early Access, 2019.
 
