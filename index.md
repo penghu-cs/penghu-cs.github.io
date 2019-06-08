@@ -13,9 +13,9 @@ Deep Neural Networks; Multi-view Learning; Cross-modal Retrieval; Audio Watermar
 
 - **Peng Hu**\*, Liangli Zhen\*, Dezhong Peng, Pei Liu, Scalable deep multimodal learning for cross-modal retrieval[C]. International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), accepted, 2019. (*denotes equal contribution, Full paper for oral presentation)
 
-- Liangli Zhen\*, **Peng Hu**\*, Xu Wang, Dezhong Peng, Deep supervised cross-modal retrieval[C], IEEE Conference on Computer Vision and Pattern Recognition (CVPR), accepted, 2019. (*denotes equal contribution)
-
 - **Peng Hu**, Dezhong Peng, Yongsheng Sang, Yong Xiang, [Multi-view linear discriminant analysis network](https://ieeexplore.ieee.org/document/8704986)[J]. IEEE Transaction on Image Processing (TIP), Online Early Access, 2019.
+
+- Liangli Zhen\*, **Peng Hu**\*, Xu Wang, Dezhong Peng, Deep supervised cross-modal retrieval[C], IEEE Conference on Computer Vision and Pattern Recognition (CVPR), accepted, 2019. (*denotes equal contribution)
 
 - Xu Wang, Dezhong Peng, **Peng Hu**, Yongsheng Sang, [Adversarial correlated autoencoder for unsupervised multi-view representation learning](https://www.sciencedirect.com/science/article/pii/S0950705119300176)[J]. Knowledge-Based Systems, 2019, 168: 109-120.
 
