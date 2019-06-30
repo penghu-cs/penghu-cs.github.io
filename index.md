@@ -16,7 +16,7 @@ Deep Neural Networks; Multi-view Learning; Cross-modal Retrieval; Audio Watermar
 
 - **Peng Hu**, Dezhong Peng, Xu Wang, Yong Xiang, [Multimodal Adversarial Network for Cross-modal Retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0950705119302230)[J], Knowledge-Based Systems, 2019, 180: 38-50. \[[code](https://github.com/penghu-cs/MAN)\]
 
-- Liangli Zhen\*, **Peng Hu**\*, Xu Wang, Dezhong Peng, [Deep supervised cross-modal retrieval](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)[C], IEEE Conference on Computer Vision and Pattern Recognition (CVPR), accepted, 2019. (*denotes equal contribution) [code](https://github.com/penghu-cs/DSCMR)
+- Liangli Zhen\*, **Peng Hu**\*, Xu Wang, Dezhong Peng, [Deep supervised cross-modal retrieval](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)[C], IEEE Conference on Computer Vision and Pattern Recognition (CVPR), accepted, 2019. (*denotes equal contribution) [[code](https://github.com/penghu-cs/DSCMR)]
 
 - Xu Wang, Dezhong Peng, **Peng Hu**, Yongsheng Sang, [Adversarial correlated autoencoder for unsupervised multi-view representation learning](https://www.sciencedirect.com/science/article/pii/S0950705119300176)[J]. Knowledge-Based Systems, 2019, 168: 109-120.
 
