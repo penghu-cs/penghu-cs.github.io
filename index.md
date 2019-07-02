@@ -9,6 +9,7 @@ I received the B.Eng. degree in computer science and technology from the Southwe
 Deep Neural Networks; Multi-view Learning; Cross-modal Retrieval; Audio Watermarking.
 
 # Papers
+- **Peng Hu**\*, Xu Wang\*, Liangli Zhen, Dezhong Peng, Separated Variational Hashing Networks for Cross-Modal Retrieval [C]. ACM International Conference on Multimedia, accepted, 2019. (*denotes equal contribution, Full paper)
 
 - **Peng Hu**, Dezhong Peng, Yongsheng Sang, Yong Xiang, [Multi-view linear discriminant analysis network](https://ieeexplore.ieee.org/document/8704986)[J]. IEEE Transaction on Image Processing (TIP), Online Early Access, 2019. [[code](https://github.com/penghu-cs/MvLDAN/blob/master/README.md)]
 
