@@ -1,9 +1,9 @@
 Peng Hu\\
-Ph.D. candidate, College of Computer Science, Sichuan University \\
+I am currently a Research Scientist at the Institute of High Performance Computing, Agency for Science, Technology and Research (A*STAR), Singapore. \\
 Email: penghu.ml[AT]gmail.com
 
 # Education
-I received the B.Eng. degree in computer science and technology from the Southwest University of Science and Technology and the M.Sc. degree in computer science and technology from Sichuan University, China, in 2013 and 2016. I am currently pursuing the Ph.D. degree in the College of Computer Science, Sichuan University.
+I received my Ph.D. and B.Eng. degree in computer science and technology from the Southwest University of Science and Technology in 2019 and 2013, and the M.Sc. degree in computer science and technology from Sichuan University, China, in 2016. I am currently pursuing the Ph.D. degree in the College of Computer Science, Sichuan University.
 
 # Research Interests
 Deep Neural Networks; Multi-view Learning; Cross-modal Retrieval; Audio Watermarking.
