@@ -3,7 +3,7 @@ Research Scientist \\
 Email: penghu.ml[AT]gmail.com
 
 # Education
-I received my B.Eng. degree in computer science and technology from the Southwest University of Science and Technology in 2013, and the M.Sc. and Ph.D. degree in computer science and technology from Sichuan University, China, in 2016 and 2019.I am currently a Research Scientist at the Institute of High Performance Computing, Agency for Science, Technology and Research (A*STAR), Singapore.
+I received my B.Eng. degree in computer science and technology from the Southwest University of Science and Technology in 2013, and the M.Sc. and Ph.D. degree in computer science and technology from Sichuan University, China, in 2016 and 2019. I am currently a Research Scientist at the Institute of High Performance Computing, Agency for Science, Technology and Research (A*STAR), Singapore.
 
 # Research Interests
 Deep Neural Networks; Multi-view Learning; Cross-modal Retrieval; Audio Watermarking.
