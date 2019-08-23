@@ -11,7 +11,10 @@ Deep Neural Networks; Multi-view Learning; Cross-modal Retrieval; Audio Watermar
 # Papers
 - **Peng Hu**\*, Xu Wang\*, Liangli Zhen, Dezhong Peng, Separated Variational Hashing Networks for Cross-Modal Retrieval [C]. ACM International Conference on Multimedia, accepted, 2019. (*denotes equal contribution, Full paper)
 
-- **Peng Hu**, Dezhong Peng, Yongsheng Sang, Yong Xiang, [Multi-view linear discriminant analysis network](https://ieeexplore.ieee.org/document/8704986)[J]. IEEE Transaction on Image Processing (TIP), Online Early Access, 2019. \[[code](https://github.com/penghu-cs/MvLDAN/)\]
+- **Peng Hu**, Dezhong Peng, Yongsheng Sang, Yong Xiang, [Multi-view linear discriminant analysis network](https://ieeexplore.ieee.org/document/8704986)[J]. IEEE Transaction on Image Processing (TIP), 2019, 28(11): 5352-5365. \[[code](https://github.com/penghu-cs/MvLDAN/)\]
+
+P. Hu, D. Peng, Y. Sang and Y. Xiang, "Multi-View Linear Discriminant Analysis Network," in IEEE Transactions on Image Processing, vol. 28, no. 11, pp. 5352-5365, Nov. 2019.
+doi: 10.1109/TIP.2019.2913511
 
 - **Peng Hu**\*, Liangli Zhen\*, Dezhong Peng, Pei Liu, [Scalable deep multimodal learning for cross-modal retrieval](https://dl.acm.org/citation.cfm?doid=3331184.3331213)[C]. International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2019: 635-644. (*denotes equal contribution, Full paper for oral presentation) \[[code](https://github.com/penghu-cs/SDML)\]
 
