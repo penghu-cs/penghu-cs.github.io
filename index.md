@@ -9,7 +9,7 @@ I received my B.Eng. degree in computer science and technology from the Southwes
 Deep Neural Networks; Multi-view Learning; Cross-modal Retrieval; Audio Watermarking.
 
 # Papers
-- Xu Wang, **Peng Hu**, Pei Liu, Dezhong Peng, [Deep Semisupervised Class- and Correlation-Collapsed Cross-View Learning](https://ieeexplore.ieee.org/document/9086133)[J]. IEEE Transactions on Cybernetics (TCYB), 2020. [Early Access](https://ieeexplore.ieee.org/document/9086133).
+- Xu Wang, **Peng Hu**, Pei Liu, Dezhong Peng, [Deep Semisupervised Class- and Correlation-Collapsed Cross-View Learning](https://doi.org/10.1109/TCYB.2020.2984489)[J]. IEEE Transactions on Cybernetics (TCYB), 2020. [Early Access](https://doi.org/10.1109/TCYB.2020.2984489).
 
 - **Peng Hu**, Hongyuan Zhu, Xi Peng, Jie Lin, Semi-supervised Multi-modal Learning with Balanced Spectral Decomposition, Thirty-Fourth AAAI Conference on Artificial Intelligence, Feb 7-12, 2020, New York, NY. (Oral).
 
