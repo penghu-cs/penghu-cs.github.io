@@ -11,7 +11,7 @@ Deep Neural Networks; Multi-view Learning; Cross-modal Retrieval; Audio Watermar
 # Papers
 - Xu Wang, **Peng Hu**, Pei Liu, Dezhong Peng, [Deep Semisupervised Class- and Correlation-Collapsed Cross-View Learning](https://doi.org/10.1109/TCYB.2020.2984489)[J]. IEEE Transactions on Cybernetics (TCYB), 2020. [Early Access](https://doi.org/10.1109/TCYB.2020.2984489).
 
-- **Peng Hu**, Hongyuan Zhu, Xi Peng, Jie Lin, Semi-supervised Multi-modal Learning with Balanced Spectral Decomposition, Thirty-Fourth AAAI Conference on Artificial Intelligence, Feb 7-12, 2020, New York, NY. (Oral).
+- **Peng Hu**, Hongyuan Zhu, Xi Peng, Jie Lin, [Semi-supervised Multi-modal Learning with Balanced Spectral Decomposition](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-HuP.3588.pdf), Thirty-Fourth AAAI Conference on Artificial Intelligence, Feb 7-12, 2020, New York, NY. (Oral).
 
 - **Peng Hu**\*, Xu Wang\*, Liangli Zhen, Dezhong Peng, [Separated Variational Hashing Networks for Cross-Modal Retrieval](https://dl.acm.org/citation.cfm?doid=3343031.3351078) [C]. 27th ACM Multimedia Conference (ACM MM), pp. 1721-1729, Nice, France, Oct. 21-25, 2019. (*denotes equal contribution, Full paper)
 
