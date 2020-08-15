@@ -4,8 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-2020
-
+# 2020
 - Xu Wang\*, **Peng Hu**\*, Liangli Zhen, Dezhong Peng, [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://doi.org/10.1016/j.ins.2020.08.009)[J]. Information Sciences, 2020. [Early Access](https://doi.org/10.1016/j.ins.2020.08.009). (* denotes equal contribution)
 
 
@@ -13,7 +12,7 @@ author_profile: true
 
 - **Peng Hu**, Hongyuan Zhu, Xi Peng, Jie Lin, [Semi-supervised Multi-modal Learning with Balanced Spectral Decomposition](https://www.aaai.org/ojs/index.php/AAAI/article/view/5339/5195), Thirty-Fourth AAAI Conference on Artificial Intelligence, Feb 7-12, 2020, New York, NY. (Oral).
 
-2019
+# 2019
 - **Peng Hu**\*, Xu Wang\*, Liangli Zhen, Dezhong Peng, [Separated Variational Hashing Networks for Cross-Modal Retrieval](https://dl.acm.org/citation.cfm?doid=3343031.3351078) [C]. 27th ACM Multimedia Conference (ACM MM), pp. 1721-1729, Nice, France, Oct. 21-25, 2019. (* denotes equal contribution, Full paper)
 
 - **Peng Hu**, Dezhong Peng, Yongsheng Sang, Yong Xiang, [Multi-view linear discriminant analysis network](https://ieeexplore.ieee.org/document/8704986)[J]. IEEE Transaction on Image Processing (TIP), 2019, 28(11): 5352-5365. \[[code](https://github.com/penghu-cs/MvLDAN/)\]
@@ -26,8 +25,8 @@ author_profile: true
 
 - Xu Wang, Dezhong Peng, **Peng Hu**, Yongsheng Sang, [Adversarial correlated autoencoder for unsupervised multi-view representation learning](https://www.sciencedirect.com/science/article/pii/S0950705119300176)[J]. Knowledge-Based Systems, 2019, 168: 109-120.
 
-2018
+# 2018
 - **Peng Hu**, Dezhong Peng, Jixiang Guo, Liangli Zhen, [Local feature based multi-view discriminant analysis](https://www.sciencedirect.com/science/article/pii/S0950705118300595)[J]. Knowledge-Based Systems, 2018, 149: 34-46.
 
-2016
+# 2016
 - **Peng Hu**, Dezhong Peng, Yi Zhang, Yong Xiang, [Robust time-spread echo watermarking using characteristics of host signals](https://ieeexplore.ieee.org/abstract/document/7374810)[J]. Electronics Letters, 2016, 52(1): 5-6.
