@@ -9,6 +9,9 @@ I received my B.Eng. degree in computer science and technology from the Southwes
 Deep Neural Networks; Multi-view Learning; Cross-modal Retrieval; Audio Watermarking.
 
 # Papers
+- Xu Wang\*, **Peng Hu**\*, Pei Liu, Dezhong Peng, [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://doi.org/10.1016/j.ins.2020.08.009)[J]. Information Sciences, 2020. [Early Access](https://doi.org/10.1016/j.ins.2020.08.009). (*denotes equal contribution)
+
+
 - Xu Wang, **Peng Hu**, Pei Liu, Dezhong Peng, [Deep Semisupervised Class- and Correlation-Collapsed Cross-View Learning](https://doi.org/10.1109/TCYB.2020.2984489)[J]. IEEE Transactions on Cybernetics (TCYB), 2020. [Early Access](https://doi.org/10.1109/TCYB.2020.2984489).
 
 - **Peng Hu**, Hongyuan Zhu, Xi Peng, Jie Lin, [Semi-supervised Multi-modal Learning with Balanced Spectral Decomposition](https://www.aaai.org/ojs/index.php/AAAI/article/view/5339/5195), Thirty-Fourth AAAI Conference on Artificial Intelligence, Feb 7-12, 2020, New York, NY. (Oral).
