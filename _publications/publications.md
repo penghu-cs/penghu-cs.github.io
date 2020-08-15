@@ -31,15 +31,3 @@ author_profile: true
 
 2016
 - **Peng Hu**, Dezhong Peng, Yi Zhang, Yong Xiang, [Robust time-spread echo watermarking using characteristics of host signals](https://ieeexplore.ieee.org/abstract/document/7374810)[J]. Electronics Letters, 2016, 52(1): 5-6.
-
-
-
-# {% if author.googlescholar %}
-#   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=gvESkwYAAAAJ&hl=zh-CN}}">my Google Scholar profile</a>.</u>
-# {% endif %}
-
-# {% include base_path %}
-
-# {% for post in site.publications reversed %}
-#   {% include archive-single.html %}
-# {% endfor %}
