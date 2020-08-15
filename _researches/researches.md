@@ -1,20 +1,16 @@
 ---
 layout: archive
-title: "Research Interests"
+title: ""
 permalink: /researches/
 author_profile: true
 ---
+# Research Interests
 - Multi-view Learning
 - Cross-modal Retrieval
 - Neural Network Compression
 
 
----
-title: "Professional Activity"
-excerpt: "Professional Activity"
-author_profile: true
----
-
+# Professional Activity
 - Multi-view Learning
 - Cross-modal Retrieval
 - Neural Network Compression
