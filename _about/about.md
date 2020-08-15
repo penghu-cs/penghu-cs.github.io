@@ -13,3 +13,4 @@ redirect_from:
 News:
 ======
 - \[**Publications**\]: One paper was accepted by Information Sciences.
+- \[**Publications**\]: One paper was accepted by IEEE Transactions on Cybernetics.
