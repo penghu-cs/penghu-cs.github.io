@@ -13,7 +13,7 @@ Research Interests
 
 Awards and Honors
 ======
-- 2020 ICME Outstanding Reviewer Award
+- ICME Outstanding Reviewer Award, 2020
 - Outstanding PhD Graduate of Sichuan University, 2019.
 - First-class Scholarship of Sichuan University for PhD. students, 2018.
 - National Scholarship of China, Ministry of Education of China, 2018.
