@@ -28,7 +28,7 @@ Professional Activity
     - the VALSE Student Committee (VSC).
 - Selected Technical Program Committee Member:
     - 34th Conference on Neural Information Processing Systems, NeurIPS 2020;
-    - 34th AAAI Conference on Artificial Intelligence, AAAI 2020;
+    - 33th-34th AAAI Conference on Artificial Intelligence, AAAI 2019-2020;
     - 28th International Joint Conference on Artificial Intelligence, IJCAI 2019;
     - 19th IEEE International Conference on Multimedia and Expo (ICME'19), Shanghai, China on July 8-12, 2019.
 - Selected Journal Reviewer:
