@@ -8,7 +8,7 @@ author_profile: true
 Research Interests
 ======
 - Multi-view Learning
-- Cross-modal Retrieval
+- Multimedia Analysis
 - Neural Network Compression
 
 Awards and Honors
