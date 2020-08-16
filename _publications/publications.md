@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 # 2020
-- Xu Wang\*, **Peng Hu**\*, Liangli Zhen, Dezhong Peng, [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://doi.org/10.1016/j.ins.2020.08.009)[J]. Information Sciences, 2020. [Early Access](https://doi.org/10.1016/j.ins.2020.08.009). (* denotes equal contribution)
-
+- Xu Wang\*, **Peng Hu**\*, Liangli Zhen, Dezhong Peng, [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://doi.org/10.1016/j.ins.2020.08.009)[J]. Information Sciences, 2020. [Early Access](https://doi.org/10.1016/j.ins.2020.08.009). (* denotes equal contribution) \[[code](https://github.com/wangxu-scu/DRSL)\]
 
 - Xu Wang, **Peng Hu**, Pei Liu, Dezhong Peng, [Deep Semisupervised Class- and Correlation-Collapsed Cross-View Learning](https://doi.org/10.1109/TCYB.2020.2984489)[J]. IEEE Transactions on Cybernetics (TCYB), 2020. [Early Access](https://doi.org/10.1109/TCYB.2020.2984489).
 
@@ -21,7 +20,7 @@ author_profile: true
 
 - **Peng Hu**, Dezhong Peng, Xu Wang, Yong Xiang, [Multimodal adversarial network for cross-modal retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0950705119302230)[J], Knowledge-Based Systems, 2019, 180: 38-50. \[[code](https://github.com/penghu-cs/MAN)\]
 
-- Liangli Zhen\*, **Peng Hu**\*, Xu Wang, Dezhong Peng, [Deep supervised cross-modal retrieval](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)[C], IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019: 10394-10403. (* denotes equal contribution) [[code](https://github.com/penghu-cs/DSCMR)]
+- Liangli Zhen\*, **Peng Hu**\*, Xu Wang, Dezhong Peng, [Deep supervised cross-modal retrieval](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)[C], IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019: 10394-10403. (* denotes equal contribution) \[[code](https://github.com/penghu-cs/DSCMR)\]
 
 - Xu Wang, Dezhong Peng, **Peng Hu**, Yongsheng Sang, [Adversarial correlated autoencoder for unsupervised multi-view representation learning](https://www.sciencedirect.com/science/article/pii/S0950705119300176)[J]. Knowledge-Based Systems, 2019, 168: 109-120.
 
