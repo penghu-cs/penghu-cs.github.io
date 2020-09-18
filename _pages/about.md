@@ -4,7 +4,6 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
   - /about.html
 ---
 
@@ -12,4 +11,6 @@ redirect_from:
 
 News:
 ======
-- \[**Publications**\]: One paper was accepted by Information Sciences.
+- \[**Publications**\]: 17 Sep. 2020 —— One paper was accepted by IEEE Transactions on Cybernetics.
+- \[**Publications**\]: 5 Aug. 2020 —— One paper was accepted by Information Sciences.
+- \[**Publications**\]: 26 Mar. 2020 —— One paper was accepted by IEEE Transactions on Cybernetics.
