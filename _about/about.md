@@ -9,6 +9,5 @@ author_profile: true
 
 News:
 ======
-- \[**Publications**\]: 17 Sep. 2020 —— One paper was accepted by IEEE Transactions on Cybernetics.
 - \[**Publications**\]: 5 Aug. 2020 —— One paper was accepted by Information Sciences.
 - \[**Publications**\]: 26 Mar. 2020 —— One paper was accepted by IEEE Transactions on Cybernetics.
