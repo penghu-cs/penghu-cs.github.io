@@ -24,8 +24,8 @@ Awards and Honors
 Professional Activity
 ======
 - Member of:
-    - the Executive Area Chair Committee (EACC) for Vision And Learning SEminar (VALSE).
-    - the VALSE Student Committee (VSC).
+    - Executive Area Chair Committee (EACC) for Vision And Learning SEminar (VALSE).
+    - VALSE Student Committee (VSC).
 - Selected Technical Program Committee Member:
     - Ninth International Conference on Learning Representations, ICLR 2021
     - 34th Conference on Neural Information Processing Systems, NeurIPS 2020;
