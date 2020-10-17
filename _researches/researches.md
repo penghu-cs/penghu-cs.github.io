@@ -27,8 +27,9 @@ Professional Activity
     - the Executive Area Chair Committee (EACC) for Vision And Learning SEminar (VALSE).
     - the VALSE Student Committee (VSC).
 - Selected Technical Program Committee Member:
+    - Ninth International Conference on Learning Representations, ICLR 2021
     - 34th Conference on Neural Information Processing Systems, NeurIPS 2020;
-    - 33th-34th AAAI Conference on Artificial Intelligence, AAAI 2019-2020;
+    - 33th-35th AAAI Conference on Artificial Intelligence, AAAI 2019-2021;
     - 28th International Joint Conference on Artificial Intelligence, IJCAI 2019;
     - IEEE International Conference on Multimedia and Expo (ICME'20), ICME 2020.
 - Selected Journal Reviewer:
