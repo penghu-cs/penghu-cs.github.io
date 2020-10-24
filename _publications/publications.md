@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 # 2020
+- Liangli Zhen\*, **Peng Hu**\*, Xi Peng, Rick Siow Mong Goh, Joey Tianyi Zhou, [Deep Multimodal Transfer Learning for Cross-Modal Retrieval](http://doi.org/10.1109/TNNLS.2020.3029181)[J]. IEEE Transactions on Neural Networks and Learning Systems, 2020. [Early Access](http://doi.org/10.1109/TNNLS.2020.3029181). (* denotes equal contribution)
+
 - Xu Wang\*, **Peng Hu**\*, Liangli Zhen, Dezhong Peng, [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://doi.org/10.1016/j.ins.2020.08.009)[J]. Information Sciences, 2020. [Early Access](https://doi.org/10.1016/j.ins.2020.08.009). (* denotes equal contribution) \[[code](https://github.com/wangxu-scu/DRSL)\]
 
 - Xu Wang, **Peng Hu**, Pei Liu, Dezhong Peng, [Deep Semisupervised Class- and Correlation-Collapsed Cross-View Learning](https://doi.org/10.1109/TCYB.2020.2984489)[J]. IEEE Transactions on Cybernetics (TCYB), 2020. [Early Access](https://doi.org/10.1109/TCYB.2020.2984489).
