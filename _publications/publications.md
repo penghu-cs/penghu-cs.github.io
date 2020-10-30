@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 # 2020
+- **Peng Hu**, Xi Peng, Hongyuan Zhu, Jie Lin, Liangli Zhen, Dezhong Peng, [Joint Versus Independent Multiview Hashing for Cross-View Retrieval](http://doi.org/10.1109/TCYB.2020.3027614)[J]. IEEE Transactions on Neural Networks and Learning Systems. [Early Access](http://doi.org/10.1109/TCYB.2020.3027614).
+
 - Liangli Zhen\*, **Peng Hu**\*, Xi Peng, Rick Siow Mong Goh, Joey Tianyi Zhou, [Deep Multimodal Transfer Learning for Cross-Modal Retrieval](http://doi.org/10.1109/TNNLS.2020.3029181)[J]. IEEE Transactions on Neural Networks and Learning Systems. [Early Access](http://doi.org/10.1109/TNNLS.2020.3029181). (* denotes equal contribution)
 
 - Xu Wang\*, **Peng Hu**\*, Liangli Zhen, Dezhong Peng, [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://doi.org/10.1016/j.ins.2020.08.009)[J]. Information Sciences. [Early Access](https://doi.org/10.1016/j.ins.2020.08.009). (* denotes equal contribution) \[[code](https://github.com/wangxu-scu/DRSL)\]
