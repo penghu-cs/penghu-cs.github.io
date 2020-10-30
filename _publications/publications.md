@@ -9,7 +9,7 @@ author_profile: true
 
 - Liangli Zhen\*, **Peng Hu**\*, Xi Peng, Rick Siow Mong Goh, Joey Tianyi Zhou, [Deep Multimodal Transfer Learning for Cross-Modal Retrieval](http://doi.org/10.1109/TNNLS.2020.3029181)[J]. IEEE Transactions on Neural Networks and Learning Systems. [Early Access](http://doi.org/10.1109/TNNLS.2020.3029181). (* denotes equal contribution)
 
-- Zhenyu Huang, **Peng Hu**, Joey Tianyi Zhou, Jiancheng Lv, and Xi Peng*, Partially View-aligned Clustering, Neural Information Processing Systems (NeurIPS), 2020. (Oral) \[[Code](https://github.com/limit-scu)\]
+- Zhenyu Huang, **Peng Hu**, Joey Tianyi Zhou, Jiancheng Lv, and Xi Peng, Partially View-aligned Clustering, Neural Information Processing Systems (NeurIPS), 2020. (Oral) \[[Code](https://github.com/limit-scu)\]
 
 - Xu Wang\*, **Peng Hu**\*, Liangli Zhen, Dezhong Peng, [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://doi.org/10.1016/j.ins.2020.08.009)[J]. Information Sciences. [Early Access](https://doi.org/10.1016/j.ins.2020.08.009). (* denotes equal contribution) \[[code](https://github.com/wangxu-scu/DRSL)\]
 
