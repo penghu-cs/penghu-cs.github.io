@@ -9,6 +9,7 @@ author_profile: true
 
 News:
 ======
+- \[**Publications**\]: 2 Dec. 2020 —— Two papers were accepted by the AAAI Conference on Artificial Intelligence (AAAI 2021).
 - \[**Publications**\]: 29 Oct. 2020 —— One paper was accepted by Pattern Recognition.
 - \[**Publications**\]: 26 Sep. 2020 —— One paper was accepted by the Thirty-Fourth Annual Conference on Neural Information Processing Systems (NeurIPS 2020).
 - \[**Publications**\]: 24 Sep. 2020 —— One paper was accepted by IEEE Transactions on Neural Networks and Learning Systems.
