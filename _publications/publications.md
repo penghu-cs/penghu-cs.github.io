@@ -9,6 +9,8 @@ author_profile: true
 
 - Yunfan Li, **Peng Hu**, Zitao Liu, Dezhong Peng, Joey Tianyi Zhou, and Xi Peng, Contrastive Clustering, Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021.
 
+- Xu Wang\*, **Peng Hu**\*, Liangli Zhen, Dezhong Peng, [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://doi.org/10.1016/j.ins.2020.08.009)[J]. Information Sciences, 2021, 546: 298-311. (* denotes equal contribution) \[[code](https://github.com/wangxu-scu/DRSL)\]
+
 # 2020
 - **Peng Hu**, Xi Peng, Hongyuan Zhu, Jie Lin, Liangli Zhen, Wei Wang, Dezhong Peng, [Cross-modal Discriminant Adversarial Network](https://doi.org/10.1016/j.patcog.2020.107734)[J]. Pattern Recognition. [Early Access](https://doi.org/10.1016/j.patcog.2020.107734).
 
@@ -17,8 +19,6 @@ author_profile: true
 - Liangli Zhen\*, **Peng Hu**\*, Xi Peng, Rick Siow Mong Goh, Joey Tianyi Zhou, [Deep Multimodal Transfer Learning for Cross-Modal Retrieval](http://doi.org/10.1109/TNNLS.2020.3029181)[J]. IEEE Transactions on Neural Networks and Learning Systems. [Early Access](http://doi.org/10.1109/TNNLS.2020.3029181). (* denotes equal contribution)
 
 - Zhenyu Huang, **Peng Hu**, Joey Tianyi Zhou, Jiancheng Lv, and Xi Peng, [Partially View-aligned Clustering](https://proceedings.neurips.cc/paper/2020/file/1e591403ff232de0f0f139ac51d99295-Paper.pdf), Neural Information Processing Systems (NeurIPS), 2020. (Oral) \[[Code](https://github.com/limit-scu)\]
-
-- Xu Wang\*, **Peng Hu**\*, Liangli Zhen, Dezhong Peng, [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://doi.org/10.1016/j.ins.2020.08.009)[J]. Information Sciences. [Early Access](https://doi.org/10.1016/j.ins.2020.08.009). (* denotes equal contribution) \[[code](https://github.com/wangxu-scu/DRSL)\]
 
 - Xu Wang, **Peng Hu**, Pei Liu, Dezhong Peng, [Deep Semisupervised Class- and Correlation-Collapsed Cross-View Learning](https://doi.org/10.1109/TCYB.2020.2984489)[J]. IEEE Transactions on Cybernetics (TCYB), 2020. [Early Access](https://doi.org/10.1109/TCYB.2020.2984489).
 
