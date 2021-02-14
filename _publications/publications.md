@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 # 2021
-- **Peng Hu**, Xi Peng, Hongyuan Zhu, Mohamed M. Sabry Aly, Jie Lin, OPQ: Compressing Deep Neural Networks with One-shot Pruning-Quantization, Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021. 
+- **Peng Hu**, Xi Peng, Hongyuan Zhu, Mohamed M. Sabry Aly, Jie Lin, OPQ: Compressing Deep Neural Networks with One-shot Pruning-Quantization, Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021. 
 
-- Yunfan Li, **Peng Hu**, Zitao Liu, Dezhong Peng, Joey Tianyi Zhou, and Xi Peng, Contrastive Clustering, Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021.
+- Yunfan Li, **Peng Hu**, Zitao Liu, Dezhong Peng, Joey Tianyi Zhou, and Xi Peng, Contrastive Clustering, Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021.
 
 - Xu Wang\*, **Peng Hu**\*, Liangli Zhen, Dezhong Peng, [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://doi.org/10.1016/j.ins.2020.08.009)[J]. Information Sciences, 2021, 546: 298-311. (* denotes equal contribution) \[[code](https://github.com/wangxu-scu/DRSL)\]
 
