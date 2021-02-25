@@ -42,4 +42,4 @@ author_profile: true
 - **Peng Hu**, Dezhong Peng, Jixiang Guo, Liangli Zhen, [Local feature based multi-view discriminant analysis](https://www.sciencedirect.com/science/article/pii/S0950705118300595)[J]. Knowledge-Based Systems, 2018, 149: 34-46.
 
 # 2016
-- **Peng Hu**, Dezhong Peng, Yi Zhang, Yong Xiang, [Robust time-spread echo watermarking using characteristics of host signals](https://ieeexplore.ieee.org/abstract/document/7374810)[J]. Electronics Letters, 2016, 52(1): 5-6.
+- **Peng Hu**, Dezhong Peng, Yi Zhang, Yong Xiang, [Robust time-spread echo watermarking using characteristics of host signals](https://doi.org/10.1049/el.2015.1508)[J]. Electronics Letters, 2016, 52(1): 5-6.
