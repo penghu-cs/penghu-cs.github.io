@@ -15,10 +15,11 @@ author_profile: true
 
 - Yunfan Li, **Peng Hu**, Zitao Liu, Dezhong Peng, Joey Tianyi Zhou, and Xi Peng, Contrastive Clustering, Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021.
 
+- **Peng Hu**, Xi Peng, Hongyuan Zhu, Jie Lin, Liangli Zhen, Wei Wang, Dezhong Peng, [Cross-modal Discriminant Adversarial Network](https://doi.org/10.1016/j.patcog.2020.107734)[J]. Pattern Recognition, 2021, 112: 107734.
+
 - Xu Wang\*, **Peng Hu**\*, Liangli Zhen, Dezhong Peng, [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://doi.org/10.1016/j.ins.2020.08.009)[J]. Information Sciences, 2021, 546: 298-311. (* denotes equal contribution) \[[code](https://github.com/wangxu-scu/DRSL)\]
 
 # 2020
-- **Peng Hu**, Xi Peng, Hongyuan Zhu, Jie Lin, Liangli Zhen, Wei Wang, Dezhong Peng, [Cross-modal Discriminant Adversarial Network](https://doi.org/10.1016/j.patcog.2020.107734)[J]. Pattern Recognition. [Early Access](https://doi.org/10.1016/j.patcog.2020.107734).
 
 - **Peng Hu**, Xi Peng, Hongyuan Zhu, Jie Lin, Liangli Zhen, Dezhong Peng, [Joint Versus Independent Multiview Hashing for Cross-View Retrieval](http://doi.org/10.1109/TCYB.2020.3027614)[J]. IEEE Transactions on Cybernetics. [Early Access](http://doi.org/10.1109/TCYB.2020.3027614).
 
