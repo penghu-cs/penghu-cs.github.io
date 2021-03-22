@@ -11,7 +11,7 @@ author_profile: true
 
 - Tianyi Zhang, Jie Lin, **Peng Hu**, Bin Zhao, Mohamed M. Sabry Aly, PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 19-25, 2021.
 
-- **Peng Hu**, Xi Peng, Hongyuan Zhu, Mohamed M. Sabry Aly, Jie Lin, OPQ: Compressing Deep Neural Networks with One-shot Pruning-Quantization, Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021. 
+- **Peng Hu**, Xi Peng, Hongyuan Zhu, Mohamed M. Sabry Aly, Jie Lin, [OPQ: Compressing Deep Neural Networks with One-shot Pruning-Quantization](https://www.aaai.org/AAAI21Papers/AAAI-1054.HuP.pdf), Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021. 
 
 - Yunfan Li, **Peng Hu**, Zitao Liu, Dezhong Peng, Joey Tianyi Zhou, and Xi Peng, Contrastive Clustering, Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021.
 
