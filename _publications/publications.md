@@ -13,7 +13,7 @@ author_profile: true
 
 - **Peng Hu**, Xi Peng, Hongyuan Zhu, Mohamed M. Sabry Aly, Jie Lin, [OPQ: Compressing Deep Neural Networks with One-shot Pruning-Quantization](https://www.aaai.org/AAAI21Papers/AAAI-1054.HuP.pdf), Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021. 
 
-- Yunfan Li, **Peng Hu**, Zitao Liu, Dezhong Peng, Joey Tianyi Zhou, and Xi Peng, Contrastive Clustering, Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021.
+- Yunfan Li, **Peng Hu**, Zitao Liu, Dezhong Peng, Joey Tianyi Zhou, and Xi Peng, [Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf), Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021. \[[code](https://github.com/Yunfan-Li/Contrastive-Clustering)\]
 
 - **Peng Hu**, Xi Peng, Hongyuan Zhu, Jie Lin, Liangli Zhen, Wei Wang, Dezhong Peng, [Cross-modal Discriminant Adversarial Network](https://doi.org/10.1016/j.patcog.2020.107734)[J]. Pattern Recognition, 2021, 112: 107734.
 
