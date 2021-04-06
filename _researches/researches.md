@@ -32,8 +32,9 @@ Professional Activity
     - IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2021
     - International Conference on Machine Learning, ICML 2021
     - International Conference on Learning Representations, ICLR 2021
-    - Conference on Neural Information Processing Systems, NeurIPS 2020;
+    - Conference on Neural Information Processing Systems, NeurIPS 2020-2021;
     - AAAI Conference on Artificial Intelligence, AAAI 2019-2021;
+    - ACM International Conference on Multimedia, ACMMM 2021;
     - International Joint Conference on Artificial Intelligence, IJCAI 2019-2021;
     - IEEE International Conference on Multimedia and Expo (ICME), ICME 2020-2021.
 - Selected Journal Reviewer:
