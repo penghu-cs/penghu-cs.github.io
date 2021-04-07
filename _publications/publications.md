@@ -7,7 +7,7 @@ author_profile: true
 # 2021
 - **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, [Learning Cross-modal Retrieval with Noisy Labels](https://github.com/penghu-cs/MRL/raw/main/paper/Learning_Cross_Modal_Retrieval_with_Noisy_Labels.pdf), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 19-25, 2021. \[[code](https://github.com/penghu-cs/MRL.git)\]
 
-- Mouxing Yang, Yunfan Li, Zhenyu Huang, Zitao Liu, **Peng Hu**, Xi Peng, Partially View-aligned Representation Learning with Noise-robust Contrastive Loss, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 19-25, 2021.
+- Mouxing Yang, Yunfan Li, Zhenyu Huang, Zitao Liu, **Peng Hu**, Xi Peng, [Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-MvCLNwith-supp.pdf), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 19-25, 2021. \[[code](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)\]
 
 - Tianyi Zhang, Jie Lin, **Peng Hu**, Bin Zhao, Mohamed M. Sabry Aly, PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 19-25, 2021.
 
