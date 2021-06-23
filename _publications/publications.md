@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 # 2021
-- **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, [Learning Cross-modal Retrieval with Noisy Labels](https://github.com/penghu-cs/MRL/raw/main/paper/Learning_Cross_Modal_Retrieval_with_Noisy_Labels.pdf), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 19-25, 2021. \[[code](https://github.com/penghu-cs/MRL.git)\]
+- **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, [Learning Cross-modal Retrieval with Noisy Labels](https://github.com/penghu-cs/MRL/raw/main/paper/Learning_Cross_Modal_Retrieval_with_Noisy_Labels.pdf), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 5403-5413. \[[code](https://github.com/penghu-cs/MRL.git)\]
 
-- Mouxing Yang, Yunfan Li, Zhenyu Huang, Zitao Liu, **Peng Hu**, Xi Peng, [Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-MvCLNwith-supp.pdf), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 19-25, 2021. \[[code](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)\]
+- Mouxing Yang, Yunfan Li, Zhenyu Huang, Zitao Liu, **Peng Hu**, Xi Peng, [Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-MvCLNwith-supp.pdf), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 1134-1143. \[[code](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)\]
 
-- Tianyi Zhang, Jie Lin, **Peng Hu**, Bin Zhao, Mohamed M. Sabry Aly, PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 19-25, 2021.
+- Tianyi Zhang, Jie Lin, **Peng Hu**, Bin Zhao, Mohamed M. Sabry Aly, [PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_PSRR-MaxpoolNMS_Pyramid_Shifted_MaxpoolNMS_With_Relationship_Recovery_CVPR_2021_paper.pdf), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 15840-15848.
 
 - **Peng Hu**, Xi Peng, Hongyuan Zhu, Mohamed M. Sabry Aly, Jie Lin, [OPQ: Compressing Deep Neural Networks with One-shot Pruning-Quantization](https://www.aaai.org/AAAI21Papers/AAAI-1054.HuP.pdf), Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021. 
 
