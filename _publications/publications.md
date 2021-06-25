@@ -11,7 +11,7 @@ author_profile: true
 
 - Tianyi Zhang, Jie Lin, **Peng Hu**, Bin Zhao, Mohamed M. Sabry Aly, [PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_PSRR-MaxpoolNMS_Pyramid_Shifted_MaxpoolNMS_With_Relationship_Recovery_CVPR_2021_paper.pdf), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 15840-15848.
 
-- **Peng Hu**, Xi Peng, Hongyuan Zhu, Mohamed M. Sabry Aly, Jie Lin, [OPQ: Compressing Deep Neural Networks with One-shot Pruning-Quantization](https://www.aaai.org/AAAI21Papers/AAAI-1054.HuP.pdf), Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021. 
+- **Peng Hu**, Xi Peng, Hongyuan Zhu, Mohamed M. Sabry Aly, Jie Lin, [OPQ: Compressing Deep Neural Networks with One-shot Pruning-Quantization](https://www.aaai.org/AAAI21Papers/AAAI-1054.HuP.pdf), Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21), 2021: 2-9.
 
 - Yunfan Li, **Peng Hu**, Zitao Liu, Dezhong Peng, Joey Tianyi Zhou, and Xi Peng, [Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf), Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021. \[[code](https://github.com/Yunfan-Li/Contrastive-Clustering)\]
 
