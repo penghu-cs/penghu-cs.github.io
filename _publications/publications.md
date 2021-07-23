@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 # 2021
-- **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, [Learning Cross-modal Retrieval with Noisy Labels](https://github.com/penghu-cs/MRL/raw/main/paper/Learning_Cross_Modal_Retrieval_with_Noisy_Labels.pdf), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 5403-5413. \[[code](https://github.com/penghu-cs/MRL.git)\]
+- **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, [Learning Cross-modal Retrieval with Noisy Labels](https://github.com/penghu-cs/MRL/raw/main/paper/Learning_Cross_Modal_Retrieval_with_Noisy_Labels.pdf)[C], IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 5403-5413. \[[code](https://github.com/penghu-cs/MRL.git)\]
+
+- **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, Huaibai Yan, Dezhong Peng, Deep Semi-Supervised Multi-View Learning with Increasing Views[J]. IEEE Transactions on Cybernetics.
+
+- Yang Yu, **Peng Hu**, Jie Lin, Pavitra Krishnaswamy, Multimodal Multitask Deep Learning for X-Ray Image Retrieval[C], International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2021).
 
 - Mouxing Yang, Yunfan Li, Zhenyu Huang, Zitao Liu, **Peng Hu**, Xi Peng, [Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-MvCLNwith-supp.pdf), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 1134-1143. \[[code](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)\]
 
