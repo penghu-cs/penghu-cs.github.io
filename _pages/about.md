@@ -13,6 +13,7 @@ redirect_from:
 News:
 ======
 - \[**Publications**\]: Jun. 14, 2021 —— One paper was accepted by IEEE Transactions on Cybernetics.
+- \[**Publications**\]: Jun. 12, 2021 —— One paper was accepted by International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2021).
 - \[**Services**\]: Jun. 13, 2021 —— I have been invited to be a TPC member for the International Conference on Learning Representations (ICLR2022), to be held online, 25-29 April 2022.
 - \[**Services**\]: Apr. 6, 2021 —— I have been invited to be a TPC member for Thirty-fifth Conference on Neural Information Processing Systems(NeurIPS 2021), which will be held from Dec. 6-14, 2021, Virtual. 
 - \[**Services**\]: Apr. 2, 2021 —— I have been invited to be a TPC member for ACM International Conference on Multimedia (ACMMM 2021), which will be held from Oct. 20-24, 2021, Chengdu, China. 
