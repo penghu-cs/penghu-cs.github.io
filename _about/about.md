@@ -9,6 +9,7 @@ author_profile: true
 
 News:
 ======
+- \[**Services**\]: Aug. 2, 2020 —— I have been invited to be a TPC member for IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022), which will be held in New Orleans, Louisiana, from June 21 to June 24, 2022.
 - \[**Publications**\]: Jun. 14, 2021 —— One paper was accepted by IEEE Transactions on Cybernetics.
 - \[**Publications**\]: Jun. 12, 2021 —— One paper was accepted by International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2021).
 - \[**Services**\]: Jun. 13, 2021 —— I have been invited to be a TPC member for the International Conference on Learning Representations (ICLR2022), to be held online, 25-29 April 2022.
