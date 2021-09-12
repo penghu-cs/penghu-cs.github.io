@@ -7,7 +7,7 @@ author_profile: true
 # 2021
 - **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, [Learning Cross-modal Retrieval with Noisy Labels](https://github.com/penghu-cs/MRL/raw/main/paper/Learning_Cross_Modal_Retrieval_with_Noisy_Labels.pdf)[C], IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 5403-5413. \[[code](https://github.com/penghu-cs/MRL.git)\]
 
-- **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, Huaibai Yan, Dezhong Peng, Deep Semi-Supervised Multi-View Learning with Increasing Views[J]. IEEE Transactions on Cybernetics.
+- **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, Huaibai Yan, Dezhong Peng, [Deep Semi-Supervised Multi-View Learning with Increasing Views](https://doi.org/10.1109/TCYB.2021.3093626)[J]. IEEE Transactions on Cybernetics. [Early Access](http://doi.org/10.1109/TCYB.2021.3093626).
 
 - Yang Yu, **Peng Hu**, Jie Lin, Pavitra Krishnaswamy, Multimodal Multitask Deep Learning for X-Ray Image Retrieval[C], International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2021).
 
