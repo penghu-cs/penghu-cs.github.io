@@ -9,6 +9,8 @@ author_profile: true
 
 - **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, Huaibai Yan, Dezhong Peng, [Deep Semi-Supervised Multi-View Learning with Increasing Views](https://doi.org/10.1109/TCYB.2021.3093626)[J]. IEEE Transactions on Cybernetics. [Early Access](http://doi.org/10.1109/TCYB.2021.3093626).
 
+- **Peng Hu**, Xi Peng, Hongyuan Zhu, Jie Lin, Liangli Zhen, Dezhong Peng, [Joint Versus Independent Multiview Hashing for Cross-View Retrieval](http://doi.org/10.1109/TCYB.2020.3027614)[J]. IEEE Transactions on Cybernetics, vol. 51, no. 10, pp. 4982-4993, Oct. 2021. \[[Code](https://github.com/penghu-cs/DCHN)\]
+
 - Yang Yu, **Peng Hu**, Jie Lin, Pavitra Krishnaswamy, Multimodal Multitask Deep Learning for X-Ray Image Retrieval[C], International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2021).
 
 - Mouxing Yang, Yunfan Li, Zhenyu Huang, Zitao Liu, **Peng Hu**, Xi Peng, [Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-MvCLNwith-supp.pdf), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 1134-1143. \[[code](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)\]
@@ -24,9 +26,6 @@ author_profile: true
 - Xu Wang\*, **Peng Hu**\*, Liangli Zhen, Dezhong Peng, [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://doi.org/10.1016/j.ins.2020.08.009)[J]. Information Sciences, 2021, 546: 298-311. (* denotes equal contribution) \[[code](https://github.com/wangxu-scu/DRSL)\]
 
 # 2020
-
-- **Peng Hu**, Xi Peng, Hongyuan Zhu, Jie Lin, Liangli Zhen, Dezhong Peng, [Joint Versus Independent Multiview Hashing for Cross-View Retrieval](http://doi.org/10.1109/TCYB.2020.3027614)[J]. IEEE Transactions on Cybernetics, vol. 51, no. 10, pp. 4982-4993, Oct. 2021.
-
 - Liangli Zhen\*, **Peng Hu**\*, Xi Peng, Rick Siow Mong Goh, Joey Tianyi Zhou, [Deep Multimodal Transfer Learning for Cross-Modal Retrieval](http://doi.org/10.1109/TNNLS.2020.3029181)[J]. IEEE Transactions on Neural Networks and Learning Systems. [Early Access](http://doi.org/10.1109/TNNLS.2020.3029181). (* denotes equal contribution)
 
 - Zhenyu Huang, **Peng Hu**, Joey Tianyi Zhou, Jiancheng Lv, and Xi Peng, [Partially View-aligned Clustering](https://proceedings.neurips.cc/paper/2020/file/1e591403ff232de0f0f139ac51d99295-Paper.pdf), Neural Information Processing Systems (NeurIPS), 2020. (Oral) \[[Code](https://github.com/limit-scu)\]
