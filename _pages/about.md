@@ -12,6 +12,9 @@ redirect_from:
 
 News:
 ======
+- \[**Publications**\]: Mar. 2, 2022 —— Two papers were accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022).
+- \[**Services**\]: Mar. 1, 2022 —— I have been invited to be a TPC member for the European Conference on Computer Vision (ECCV 2022), which will be held Tel-Aviv on Oct. 24-28 2022. 
+- \[**Publications**\]: Feb. 13, 2022 —— One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 - \[**Services**\]: Dec. 17, 2020 —— I have been invited to be a TPC member for International Conference on Machine Learning (ICML 2022), which will be held in Baltimore, USA, from July 17 to July 23, 2022.
 - \[**Services**\]: Aug. 2, 2020 —— I have been invited to be a TPC member for IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022), which will be held in New Orleans, Louisiana, from June 21 to June 24, 2022.
 - \[**Publications**\]: Jun. 14, 2021 —— One paper was accepted by IEEE Transactions on Cybernetics.
