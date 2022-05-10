@@ -9,7 +9,7 @@ author_profile: true
 
 News:
 ======
-- \[**Publications**\]: May 10, 2022, one paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)! Thanks to all coauthors. 
+- \[**Publications**\]: May 10, 2022, one paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). Thanks to all coauthors. 
 - \[**Publications**\]: May 5, 2022, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to boyun and coauthors.
 - \[**Publications**\]: Mar. 2, 2022 —— Two papers were accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022).
 - \[**Services**\]: Mar. 1, 2022 —— I have been invited to be a TPC member for the European Conference on Computer Vision (ECCV 2022), which will be held Tel-Aviv on Oct. 24-28 2022. 
