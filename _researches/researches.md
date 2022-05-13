@@ -29,15 +29,16 @@ Professional Activity
 - Senior Programme Committee Member:
     - International Joint Conference on Artificial Intelligence, IJCAI 2021;
 - Program Committee Member:
-    - IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2021
-    - International Conference on Machine Learning, ICML 2021
+    - IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2021-2022
+    - International Conference on Machine Learning, ICML 2021-2022
     - International Conference on Learning Representations, ICLR 2021-2022
-    - Conference on Neural Information Processing Systems, NeurIPS 2020-2021;
+    - Conference on Neural Information Processing Systems, NeurIPS 2020-2022;
+    - European Conference on Computer Vision, ECCV 2022
     - International Conference on Computer Vision, ICCV 2021
-    - AAAI Conference on Artificial Intelligence, AAAI 2019-2021;
-    - ACM International Conference on Multimedia, ACMMM 2021;
+    - AAAI Conference on Artificial Intelligence, AAAI 2019-2022;
+    - ACM International Conference on Multimedia, ACMMM 2021-2022;
     - International Joint Conference on Artificial Intelligence, IJCAI 2019-2021;
-    - IEEE International Conference on Multimedia and Expo (ICME), ICME 2020-2021.
+    - IEEE International Conference on Multimedia and Expo (ICME), ICME 2020-2022.
 - Selected Journal Reviewer:
     - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI);
     - IEEE Transactions on Image Processing (TIP);
