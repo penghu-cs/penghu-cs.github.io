@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 # 2022
-- **Peng Hu**, Hongyuan Zhu, Jie Lin, Dezhong Peng, Yin-Ping Zhao, Xi Peng*, [Unsupervised Contrastive Cross-modal Hashing](https://doi.org/10.1109/TPAMI.2022.3177356), IEEE Trans Pattern Analysis and Machine Intelligence (TPAMI), Feb. 2022. DOI: 10.1109/TPAMI.2022.3177356.\[[code](https://github.com/penghu-cs/UCCH)\]
+- **Peng Hu**, Hongyuan Zhu, Jie Lin, Dezhong Peng, Yin-Ping Zhao, Xi Peng*, [Unsupervised Contrastive Cross-modal Hashing](https://doi.org/10.1109/TPAMI.2022.3177356), IEEE Trans Pattern Analysis and Machine Intelligence (TPAMI), 26 May 2022. DOI: 10.1109/TPAMI.2022.3177356.\[[code](https://github.com/penghu-cs/UCCH)\]
 - Mouxing Yang, Zhenyu Huang, **Peng Hu**, Taihao Li, Jiancheng Lv, Xi Peng*, Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA. Jun. 19-25, 2022.\[[code](https://github.com/XLearning-SCU/2022-CVPR-DART)\]
 - Boyun Li, Xiao Liu, **Peng Hu**, Zhongqin Wu, Jiancheng Lv, Xi Peng*, All-In-One Image Restoration for Unknown Corruption, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA. Jun. 19-25, 2022.\[[code](https://github.com/XLearning-SCU/2022-CVPR-AirNet)\]
 - Mouxing Yang, Yunfan Li, **Peng Hu**, Jinfeng Bai, Jiancheng Lv, Xi Peng*, Robust Multi-view Clustering with Incomplete Information, IEEE Trans Pattern Analysis and Machine Intelligence (TPAMI), Feb. 2022. DOI: 10.1109/TPAMI.2022.3155499.\[[code](https://github.com/XLearning-SCU/2022-TPAMI-SURE)\]
