@@ -23,6 +23,8 @@ Awards and Honors
 
 Professional Activity
 ======
+- Associate Editor Editor:
+    - The Visual Computer journal (IF: 2.601), 2022/05-Present;
 - Member of:
     - Executive Area Chair Committee (EACC) for Vision And Learning SEminar (VALSE).
     - VALSE Student Committee (VSC).
@@ -32,7 +34,7 @@ Professional Activity
     - IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2021-2022
     - International Conference on Machine Learning, ICML 2021-2022
     - International Conference on Learning Representations, ICLR 2021-2022
-    - Conference on Neural Information Processing Systems, NeurIPS 2020-2022;
+    - Conference on Neural Information Processing Systems, NeurIPS 2020-2023;
     - European Conference on Computer Vision, ECCV 2022
     - International Conference on Computer Vision, ICCV 2021
     - AAAI Conference on Artificial Intelligence, AAAI 2019-2022;
