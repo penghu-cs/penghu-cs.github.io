@@ -37,7 +37,7 @@ Professional Activity
     - Conference on Neural Information Processing Systems, NeurIPS 2020-2023;
     - European Conference on Computer Vision, ECCV 2022
     - International Conference on Computer Vision, ICCV 2021
-    - AAAI Conference on Artificial Intelligence, AAAI 2019-2022;
+    - AAAI Conference on Artificial Intelligence, AAAI 2019-2023;
     - ACM International Conference on Multimedia, ACMMM 2021-2022;
     - International Joint Conference on Artificial Intelligence, IJCAI 2019-2021;
     - IEEE International Conference on Multimedia and Expo (ICME), ICME 2020-2022.
