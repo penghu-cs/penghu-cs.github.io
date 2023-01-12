@@ -4,6 +4,9 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+# 2023
+Xu Wang, Dezhong Peng, Ming Yan, **Peng Hu***, Correspondence-Free Domain Alignment for Unsupervised Cross-Domain Image Retrieval, Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), Feb. 7-14, Washington DC, 2023.
+
 # 2022
 - Yang Qin, Dezhong Peng, Xi Peng, Xu Wang, **Peng Hu***, [Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval](https://drive.google.com/file/d/1YVXD2ki5txBY6khG62EHwCi6cnQVRE4I/view), Proceedings of the 30th ACM International Conference on Multimedia, 10-14 October 2022.\[[code](https://github.com/penghu-cs/DECL)\]
 - **Peng Hu**, Hongyuan Zhu, Jie Lin, Dezhong Peng, Yin-Ping Zhao, Xi Peng*, [Unsupervised Contrastive Cross-modal Hashing](https://doi.org/10.1109/TPAMI.2022.3177356), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 26 May 2022. DOI: 10.1109/TPAMI.2022.3177356.\[[code](https://github.com/penghu-cs/UCCH)\]
