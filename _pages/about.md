@@ -12,7 +12,7 @@ redirect_from:
 
 News:
 ======
-- \[**Publications**\]: Feb. 20, 2023, one paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). Thanks to all coauthors. 
+- \[**Publications**\]: Feb. 13, 2023, one paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). Thanks to all coauthors. 
 - \[**Services**\]: Dec. 24, 2022, I have been invited to be a TPC member for the 40th International Conference on Machine Learning (ICML 2023). 
 - \[**Publications**\]: Nov. 19, 2022, one paper was accepted by the AAAI Conference on Artificial Intelligence (AAAI 2023). Congrats to Xu and coauthors.
 - \[**Publications**\]: Jun. 30, 2022, one paper was accepted by ACM Multimedia 2022 (ACMMM 2022). Congrats to Yang and coauthors.
