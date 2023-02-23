@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 # 2023
-- **Peng Hu**, Zhenyu Huang, Dezhong Peng, Xu Wang and Xi Peng#, [Cross-Modal Retrieval with Partially Mismatched Pairs](https://doi.org/10.1109/TPAMI.2023.3247939), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), \[[code](https://github.com/penghu-cs/RCL)\].
+- **Peng Hu**, Zhenyu Huang, Dezhong Peng, Xu Wang and Xi Peng#, [Cross-Modal Retrieval with Partially Mismatched Pairs](https://doi.org/10.1109/TPAMI.2023.3247939), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 22 Feb. 2022. DOI: 10.1109/TPAMI.2022.3177356.\[[code](https://github.com/penghu-cs/RCL)\].
 - Xu Wang, Dezhong Peng, Ming Yan, **Peng Hu#**, Correspondence-Free Domain Alignment for Unsupervised Cross-Domain Image Retrieval, Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), Feb. 7-14, Washington DC, 2023.
 
 # 2022
