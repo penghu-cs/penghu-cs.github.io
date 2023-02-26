@@ -5,36 +5,36 @@ permalink: /publications/
 author_profile: true
 ---
 # 2023
-- **Peng Hu**, Zhenyu Huang, Dezhong Peng, Xu Wang and Xi Peng#, [Cross-Modal Retrieval with Partially Mismatched Pairs](https://doi.org/10.1109/TPAMI.2023.3247939), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 22 Feb. 2022. DOI: 10.1109/TPAMI.2022.3177356.\[[code](https://github.com/penghu-cs/RCL)\].
+- **Peng Hu**, Zhenyu Huang, Dezhong Peng, Xu Wang and Xi Peng#, [Cross-Modal Retrieval with Partially Mismatched Pairs](https://doi.org/10.1109/TPAMI.2023.3247939)  , IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 22 Feb. 2022. DOI: 10.1109/TPAMI.2022.3177356. \[[PDF](https://github.com/penghu-cs/penghu-cs.github.io/blob/master/files/RCL-TPAMI.pdf)\] \[[Code](https://github.com/penghu-cs/RCL)\] \[[Appendix](https://github.com/penghu-cs/penghu-cs.github.io/blob/master/files/RCL-Appendix.pdf)\].
 - Xu Wang, Dezhong Peng, Ming Yan, **Peng Hu#**, [Correspondence-Free Domain Alignment for Unsupervised Cross-Domain Image Retrieval](https://arxiv.org/pdf/2302.06081.pdf), Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), Feb. 7-14, Washington DC, 2023.
 
 # 2022
-- Yang Qin, Dezhong Peng, Xi Peng, Xu Wang, **Peng Hu#**, [Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval](https://drive.google.com/file/d/1YVXD2ki5txBY6khG62EHwCi6cnQVRE4I/view), Proceedings of the 30th ACM International Conference on Multimedia, 10-14 October 2022.\[[code](https://github.com/penghu-cs/DECL)\]
-- **Peng Hu**, Hongyuan Zhu, Jie Lin, Dezhong Peng, Yin-Ping Zhao, Xi Peng#, [Unsupervised Contrastive Cross-modal Hashing](https://doi.org/10.1109/TPAMI.2022.3177356), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 26 May 2022. DOI: 10.1109/TPAMI.2022.3177356.\[[code](https://github.com/penghu-cs/UCCH)\]
-- Mouxing Yang, Zhenyu Huang, **Peng Hu**, Taihao Li, Jiancheng Lv, Xi Peng#, Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA. Jun. 19-25, 2022.\[[code](https://github.com/XLearning-SCU/2022-CVPR-DART)\]
-- Boyun Li, Xiao Liu, **Peng Hu**, Zhongqin Wu, Jiancheng Lv, Xi Peng#, All-In-One Image Restoration for Unknown Corruption, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA. Jun. 19-25, 2022.\[[code](https://github.com/XLearning-SCU/2022-CVPR-AirNet)\]
-- Mouxing Yang, Yunfan Li, **Peng Hu**, Jinfeng Bai, Jiancheng Lv, Xi Peng#, Robust Multi-view Clustering with Incomplete Information, IEEE Trans Pattern Analysis and Machine Intelligence (TPAMI), Feb. 2022. DOI: 10.1109/TPAMI.2022.3155499.\[[code](https://github.com/XLearning-SCU/2022-TPAMI-SURE)\]
+- Yang Qin, Dezhong Peng, Xi Peng, Xu Wang, **Peng Hu#**, [Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval](https://drive.google.com/file/d/1YVXD2ki5txBY6khG62EHwCi6cnQVRE4I/view), Proceedings of the 30th ACM International Conference on Multimedia, 10-14 October 2022.\[[Code](https://github.com/penghu-cs/DECL)\]
+- **Peng Hu**, Hongyuan Zhu, Jie Lin, Dezhong Peng, Yin-Ping Zhao, Xi Peng#, [Unsupervised Contrastive Cross-modal Hashing](https://doi.org/10.1109/TPAMI.2022.3177356), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 26 May 2022. DOI: 10.1109/TPAMI.2022.3177356.\[[Code](https://github.com/penghu-cs/UCCH)\]
+- Mouxing Yang, Zhenyu Huang, **Peng Hu**, Taihao Li, Jiancheng Lv, Xi Peng#, Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA. Jun. 19-25, 2022.\[[Code](https://github.com/XLearning-SCU/2022-CVPR-DART)\]
+- Boyun Li, Xiao Liu, **Peng Hu**, Zhongqin Wu, Jiancheng Lv, Xi Peng#, All-In-One Image Restoration for Unknown Corruption, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA. Jun. 19-25, 2022.\[[Code](https://github.com/XLearning-SCU/2022-CVPR-AirNet)\]
+- Mouxing Yang, Yunfan Li, **Peng Hu**, Jinfeng Bai, Jiancheng Lv, Xi Peng#, Robust Multi-view Clustering with Incomplete Information, IEEE Trans Pattern Analysis and Machine Intelligence (TPAMI), Feb. 2022. DOI: 10.1109/TPAMI.2022.3155499.\[[Code](https://github.com/XLearning-SCU/2022-TPAMI-SURE)\]
 
 # 2021
-- **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, [Learning Cross-modal Retrieval with Noisy Labels](https://github.com/penghu-cs/MRL/raw/main/paper/Learning_Cross_Modal_Retrieval_with_Noisy_Labels.pdf)[C], IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 5403-5413. \[[code](https://github.com/penghu-cs/MRL.git)\]
+- **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, [Learning Cross-modal Retrieval with Noisy Labels](https://github.com/penghu-cs/MRL/raw/main/paper/Learning_Cross_Modal_Retrieval_with_Noisy_Labels.pdf)[C], IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 5403-5413. \[[Code](https://github.com/penghu-cs/MRL.git)\]
 
-- **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, Huaibai Yan, Dezhong Peng, [Deep Semi-Supervised Multi-View Learning with Increasing Views](https://doi.org/10.1109/TCYB.2021.3093626)[J]. IEEE Transactions on Cybernetics. [Early Access](http://doi.org/10.1109/TCYB.2021.3093626). \[[code](https://github.com/penghu-cs/ISVN.git)\]
+- **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, Huaibai Yan, Dezhong Peng, [Deep Semi-Supervised Multi-View Learning with Increasing Views](https://doi.org/10.1109/TCYB.2021.3093626)[J]. IEEE Transactions on Cybernetics. [Early Access](http://doi.org/10.1109/TCYB.2021.3093626). \[[Code](https://github.com/penghu-cs/ISVN.git)\]
 
 - **Peng Hu**, Xi Peng, Hongyuan Zhu, Jie Lin, Liangli Zhen, Dezhong Peng, [Joint Versus Independent Multiview Hashing for Cross-View Retrieval](http://doi.org/10.1109/TCYB.2020.3027614)[J]. IEEE Transactions on Cybernetics, vol. 51, no. 10, pp. 4982-4993, Oct. 2021. \[[Code](https://github.com/penghu-cs/DCHN)\]
 
 - Yang Yu, **Peng Hu**, Jie Lin, Pavitra Krishnaswamy, Multimodal Multitask Deep Learning for X-Ray Image Retrieval[C], International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2021).
 
-- Mouxing Yang, Yunfan Li, Zhenyu Huang, Zitao Liu, **Peng Hu**, Xi Peng, [Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-MvCLNwith-supp.pdf), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 1134-1143. \[[code](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)\]
+- Mouxing Yang, Yunfan Li, Zhenyu Huang, Zitao Liu, **Peng Hu**, Xi Peng, [Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-MvCLNwith-supp.pdf), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 1134-1143. \[[Code](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)\]
 
 - Tianyi Zhang, Jie Lin, **Peng Hu**, Bin Zhao, Mohamed M. Sabry Aly, [PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_PSRR-MaxpoolNMS_Pyramid_Shifted_MaxpoolNMS_With_Relationship_Recovery_CVPR_2021_paper.pdf), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 15840-15848.
 
 - **Peng Hu**, Xi Peng, Hongyuan Zhu, Mohamed M. Sabry Aly, Jie Lin, [OPQ: Compressing Deep Neural Networks with One-shot Pruning-Quantization](https://www.aaai.org/AAAI21Papers/AAAI-1054.HuP.pdf), Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21), 2021: 2-9.
 
-- Yunfan Li, **Peng Hu**, Zitao Liu, Dezhong Peng, Joey Tianyi Zhou, and Xi Peng, [Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf), Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021. \[[code](https://github.com/Yunfan-Li/Contrastive-Clustering)\]
+- Yunfan Li, **Peng Hu**, Zitao Liu, Dezhong Peng, Joey Tianyi Zhou, and Xi Peng, [Contrastive Clustering](https://arxiv.org/pdf/2009.09687.pdf), Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI'21), Feb. 2-9, 2021. \[[Code](https://github.com/Yunfan-Li/Contrastive-Clustering)\]
 
 - **Peng Hu**, Xi Peng, Hongyuan Zhu, Jie Lin, Liangli Zhen, Wei Wang, Dezhong Peng, [Cross-modal Discriminant Adversarial Network](https://doi.org/10.1016/j.patcog.2020.107734)[J]. Pattern Recognition, 2021, 112: 107734.
 
-- Xu Wang\*, **Peng Hu**\*, Liangli Zhen, Dezhong Peng, [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://doi.org/10.1016/j.ins.2020.08.009)[J]. Information Sciences, 2021, 546: 298-311. (* denotes equal contribution) \[[code](https://github.com/wangxu-scu/DRSL)\]
+- Xu Wang\*, **Peng Hu**\*, Liangli Zhen, Dezhong Peng, [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://doi.org/10.1016/j.ins.2020.08.009)[J]. Information Sciences, 2021, 546: 298-311. (* denotes equal contribution) \[[Code](https://github.com/wangxu-scu/DRSL)\]
 
 # 2020
 - Liangli Zhen\*, **Peng Hu**\*, Xi Peng, Rick Siow Mong Goh, Joey Tianyi Zhou, [Deep Multimodal Transfer Learning for Cross-Modal Retrieval](http://doi.org/10.1109/TNNLS.2020.3029181)[J]. IEEE Transactions on Neural Networks and Learning Systems. [Early Access](http://doi.org/10.1109/TNNLS.2020.3029181). (* denotes equal contribution)
@@ -49,13 +49,13 @@ author_profile: true
 # 2019
 - **Peng Hu**\*, Xu Wang\*, Liangli Zhen, Dezhong Peng, [Separated Variational Hashing Networks for Cross-Modal Retrieval](https://dl.acm.org/citation.cfm?doid=3343031.3351078) [C]//Proceedings of the 27th ACM International Conference on Multimedia. 2019: 1721-1729. (* denotes equal contribution, Full paper)
 
-- **Peng Hu**, Dezhong Peng, Yongsheng Sang, Yong Xiang, [Multi-view linear discriminant analysis network](https://ieeexplore.ieee.org/document/8704986)[J]. IEEE Transaction on Image Processing (TIP), 2019, 28(11): 5352-5365. \[[code](https://github.com/penghu-cs/MvLDAN/)\]
+- **Peng Hu**, Dezhong Peng, Yongsheng Sang, Yong Xiang, [Multi-view linear discriminant analysis network](https://ieeexplore.ieee.org/document/8704986)[J]. IEEE Transaction on Image Processing (TIP), 2019, 28(11): 5352-5365. \[[Code](https://github.com/penghu-cs/MvLDAN/)\]
 
-- **Peng Hu**\*, Liangli Zhen\*, Dezhong Peng, Pei Liu, [Scalable deep multimodal learning for cross-modal retrieval](https://doi.org/10.1145/3331184.3331213)[C]//Proceedings of the 42Nd International ACM SIGIR Conference on Research and Development in Information Retrieval. 2019: 635-644. (* denotes equal contribution, Full paper for oral presentation) \[[code](https://github.com/penghu-cs/SDML)\]
+- **Peng Hu**\*, Liangli Zhen\*, Dezhong Peng, Pei Liu, [Scalable deep multimodal learning for cross-modal retrieval](https://doi.org/10.1145/3331184.3331213)[C]//Proceedings of the 42Nd International ACM SIGIR Conference on Research and Development in Information Retrieval. 2019: 635-644. (* denotes equal contribution, Full paper for oral presentation) \[[Code](https://github.com/penghu-cs/SDML)\]
 
-- **Peng Hu**, Dezhong Peng, Xu Wang, Yong Xiang, [Multimodal adversarial network for cross-modal retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0950705119302230)[J], Knowledge-Based Systems, 2019, 180: 38-50. \[[code](https://github.com/penghu-cs/MAN)\]
+- **Peng Hu**, Dezhong Peng, Xu Wang, Yong Xiang, [Multimodal adversarial network for cross-modal retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0950705119302230)[J], Knowledge-Based Systems, 2019, 180: 38-50. \[[Code](https://github.com/penghu-cs/MAN)\]
 
-- Liangli Zhen\*, **Peng Hu**\*, Xu Wang, Dezhong Peng, [Deep supervised cross-modal retrieval](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 10394-10403. (* denotes equal contribution) \[[code](https://github.com/penghu-cs/DSCMR)\]
+- Liangli Zhen\*, **Peng Hu**\*, Xu Wang, Dezhong Peng, [Deep supervised cross-modal retrieval](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 10394-10403. (* denotes equal contribution) \[[Code](https://github.com/penghu-cs/DSCMR)\]
 
 - Xu Wang, Dezhong Peng, **Peng Hu**, Yongsheng Sang, [Adversarial correlated autoencoder for unsupervised multi-view representation learning](https://www.sciencedirect.com/science/article/pii/S0950705119300176)[J]. Knowledge-Based Systems, 2019, 168: 109-120.
 
