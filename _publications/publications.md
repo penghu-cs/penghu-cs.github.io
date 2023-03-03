@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 # 2023
+- Yanglin Feng, Hongyuan Zhu, Dezhong Peng, Xi Peng, **Peng Hu#**, RONO: Robust Discriminative Learning with Noisy Labels for 2D-3D Cross-Modal Retrieval, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada. Jun. 18-22, 2023.
+- Pengxin Zeng, Yunfan Li, **Peng Hu**, Dezhong Peng, Jiancheng Lv, Xi Peng#, Deep Fair Clustering via Maximizing and Minimizing Mutual Information, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada. Jun. 18-22, 2023.
+- Yuanbiao Gou, **Peng Hu**, Jiancheng Lv, Hongyuan Zhu, Xi Peng#, Rethinking Image Super Resolution from Long-Tailed Distribution Learning Perspective, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada. Jun. 18-22, 2023.
 - **Peng Hu**, Zhenyu Huang, Dezhong Peng, Xu Wang and Xi Peng#, [Cross-Modal Retrieval with Partially Mismatched Pairs](https://doi.org/10.1109/TPAMI.2023.3247939)  , IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 22 Feb. 2022. DOI: 10.1109/TPAMI.2022.3177356. \[[PDF](https://github.com/penghu-cs/penghu-cs.github.io/blob/master/files/RCL-TPAMI.pdf)\] \[[Code](https://github.com/penghu-cs/RCL)\] \[[Appendix](https://github.com/penghu-cs/penghu-cs.github.io/blob/master/files/RCL-Appendix.pdf)\].
 - Xu Wang, Dezhong Peng, Ming Yan, **Peng Hu#**, [Correspondence-Free Domain Alignment for Unsupervised Cross-Domain Image Retrieval](https://arxiv.org/pdf/2302.06081.pdf), Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), Feb. 7-14, Washington DC, 2023.
 
