@@ -12,6 +12,7 @@ redirect_from:
 
 News:
 ======
+- \[**Publications**\]: Feb. 28, 2023, three papers were accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023)! Congrats to Yanglin, Pengxin, Yuanbiao and coauthors.
 - \[**Publications**\]: Feb. 13, 2023, one paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). Thanks to all coauthors. 
 - \[**Services**\]: Dec. 24, 2022, I have been invited to be a TPC member for the 40th International Conference on Machine Learning (ICML 2023). 
 - \[**Publications**\]: Nov. 19, 2022, one paper was accepted by the AAAI Conference on Artificial Intelligence (AAAI 2023). Congrats to Xu and coauthors.
