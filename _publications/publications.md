@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 # 2023
-- Haobin Li, Yunfan Li, Mouxing Yang, **Peng Hu**, Dezhong Peng, Xi Peng*, Incomplete Multi-view Clustering via Prototype-based Imputation, International Joint Conference on Artificial Intelligence (IJCAI), Macao, China. Aug. 19-25, 2023.
-- Yunfan Li, Yijie Lin, **Peng Hu**, Dezhong Peng, Han Luo, Xi Peng*, [Single-cell RNA-seq Debiased Clustering via Batch Effect Disentanglement](https://dx.doi.org/10.1109/TNNLS.2023.3260003), IEEE Trans Neural Networks and Learning Systems (TNNLS), Mar. 2023. DOI: [10.1109/TNNLS.2023.3260003](https://dx.doi.org/10.1109/TNNLS.2023.3260003).
+- Haobin Li, Yunfan Li, Mouxing Yang, **Peng Hu**, Dezhong Peng, Xi Peng#, Incomplete Multi-view Clustering via Prototype-based Imputation, International Joint Conference on Artificial Intelligence (IJCAI), Macao, China. Aug. 19-25, 2023.
+- Yunfan Li, Yijie Lin, **Peng Hu**, Dezhong Peng, Han Luo, Xi Peng#, [Single-cell RNA-seq Debiased Clustering via Batch Effect Disentanglement](https://dx.doi.org/10.1109/TNNLS.2023.3260003), IEEE Trans Neural Networks and Learning Systems (TNNLS), Mar. 2023. DOI: [10.1109/TNNLS.2023.3260003](https://dx.doi.org/10.1109/TNNLS.2023.3260003).
 - Yanglin Feng, Hongyuan Zhu, Dezhong Peng, Xi Peng, **Peng Hu#**, RONO: Robust Discriminative Learning with Noisy Labels for 2D-3D Cross-Modal Retrieval, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada. Jun. 18-22, 2023.
 - Pengxin Zeng, Yunfan Li, **Peng Hu**, Dezhong Peng, Jiancheng Lv, Xi Peng#, Deep Fair Clustering via Maximizing and Minimizing Mutual Information, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada. Jun. 18-22, 2023.
 - Yuanbiao Gou, **Peng Hu**, Jiancheng Lv, Hongyuan Zhu, Xi Peng#, Rethinking Image Super Resolution from Long-Tailed Distribution Learning Perspective, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada. Jun. 18-22, 2023.
