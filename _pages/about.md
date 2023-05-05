@@ -12,6 +12,8 @@ redirect_from:
 
 News:
 ======
+- \[**Publications**\]: Apr. 21, 2023, one paper was accepted by the International Joint Conference on Artificial Intelligence (IJCAI 2023), Macao, China, Aug 19-25, 2023.! Congrats to Haobin and coauthors.
+- \[**Publications**\]: Mar. 14, 2023, one paper was accepted by IEEE Trans Neural Networks and Learning Systems (TNNLS)! Congrats to Yunfan and coauthors.
 - \[**Publications**\]: Feb. 28, 2023, three papers were accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2023)! Congrats to Yanglin, Pengxin, Yuanbiao and coauthors.
 - \[**Publications**\]: Feb. 13, 2023, one paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). Thanks to all coauthors. 
 - \[**Services**\]: Dec. 24, 2022, I have been invited to be a TPC member for the 40th International Conference on Machine Learning (ICML 2023). 
