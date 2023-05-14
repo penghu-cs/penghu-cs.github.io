@@ -26,7 +26,7 @@ Professional Activity
 - Associate Editor Editor:
     - The Visual Computer journal (IF: 2.601), 2022/05-Present;
 - Member of:
-    - Executive Area Chair Committee (EACC) for Vision And Learning SEminar (VALSE).
+    - Senior Area Chair Committee (SACC) for Vision And Learning SEminar (VALSE).
     - VALSE Student Committee (VSC).
 - Senior Programme Committee Member:
     - International Joint Conference on Artificial Intelligence, IJCAI 2021;
