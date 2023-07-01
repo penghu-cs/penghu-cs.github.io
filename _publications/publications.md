@@ -20,6 +20,7 @@ author_profile: true
 - Boyun Li, Xiao Liu, **Peng Hu**, Zhongqin Wu, Jiancheng Lv, Xi Peng#, All-In-One Image Restoration for Unknown Corruption, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA. Jun. 19-25, 2022.\[[Code](https://github.com/XLearning-SCU/2022-CVPR-AirNet)\]
 - Mouxing Yang, Yunfan Li, **Peng Hu**, Jinfeng Bai, Jiancheng Lv, Xi Peng#, Robust Multi-view Clustering with Incomplete Information, IEEE Trans Pattern Analysis and Machine Intelligence (TPAMI), Feb. 2022. DOI: 10.1109/TPAMI.2022.3155499.\[[Code](https://github.com/XLearning-SCU/2022-TPAMI-SURE)\]
 - **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, Huaibai Yan, Dezhong Peng, [Deep Semi-Supervised Multi-View Learning with Increasing Views](https://doi.org/10.1109/TCYB.2021.3093626)[J]. IEEE Transactions on Cybernetics, vol. 52, no. 12, pp. 12954-12965, Dec. 2022, doi: 10.1109/TCYB.2021.3093626. \[[Code](https://github.com/penghu-cs/ISVN.git)\]
+- Liangli Zhen\*, **Peng Hu**\*, Xi Peng, Rick Siow Mong Goh, Joey Tianyi Zhou, [Deep Multimodal Transfer Learning for Cross-Modal Retrieval](http://doi.org/10.1109/TNNLS.2020.3029181)[J]. IEEE Transactions on Neural Networks and Learning Systems, vol. 33, no. 2, pp. 798-810, Feb. 2022, doi: 10.1109/TNNLS.2020.3029181. (* denotes equal contribution)
 
 # 2021
 - **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, [Learning Cross-modal Retrieval with Noisy Labels](https://github.com/penghu-cs/MRL/raw/main/paper/Learning_Cross_Modal_Retrieval_with_Noisy_Labels.pdf)[C], IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 5403-5413. \[[Code](https://github.com/penghu-cs/MRL.git)\]
@@ -41,8 +42,6 @@ author_profile: true
 - Xu Wang\*, **Peng Hu**\*, Liangli Zhen, Dezhong Peng, [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://doi.org/10.1016/j.ins.2020.08.009)[J]. Information Sciences, 2021, 546: 298-311. (* denotes equal contribution) \[[Code](https://github.com/wangxu-scu/DRSL)\]
 
 # 2020
-- Liangli Zhen\*, **Peng Hu**\*, Xi Peng, Rick Siow Mong Goh, Joey Tianyi Zhou, [Deep Multimodal Transfer Learning for Cross-Modal Retrieval](http://doi.org/10.1109/TNNLS.2020.3029181)[J]. IEEE Transactions on Neural Networks and Learning Systems, vol. 33, no. 2, pp. 798-810, Feb. 2022, doi: 10.1109/TNNLS.2020.3029181. (* denotes equal contribution)
-
 - Zhenyu Huang, **Peng Hu**, Joey Tianyi Zhou, Jiancheng Lv, and Xi Peng, [Partially View-aligned Clustering](https://proceedings.neurips.cc/paper/2020/file/1e591403ff232de0f0f139ac51d99295-Paper.pdf), Neural Information Processing Systems (NeurIPS), 2020. (Oral) \[[Code](https://github.com/limit-scu)\]
 
 - Xu Wang, **Peng Hu**, Pei Liu, Dezhong Peng, [Deep Semisupervised Class- and Correlation-Collapsed Cross-View Learning](https://doi.org/10.1109/TCYB.2020.2984489)[J]. IEEE Transactions on Cybernetics (TCYB), 2020. [Early Access](https://doi.org/10.1109/TCYB.2020.2984489).
