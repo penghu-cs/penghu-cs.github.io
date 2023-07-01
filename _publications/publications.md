@@ -19,11 +19,10 @@ author_profile: true
 - Mouxing Yang, Zhenyu Huang, **Peng Hu**, Taihao Li, Jiancheng Lv, Xi Peng#, Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA. Jun. 19-25, 2022.\[[Code](https://github.com/XLearning-SCU/2022-CVPR-DART)\]
 - Boyun Li, Xiao Liu, **Peng Hu**, Zhongqin Wu, Jiancheng Lv, Xi Peng#, All-In-One Image Restoration for Unknown Corruption, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA. Jun. 19-25, 2022.\[[Code](https://github.com/XLearning-SCU/2022-CVPR-AirNet)\]
 - Mouxing Yang, Yunfan Li, **Peng Hu**, Jinfeng Bai, Jiancheng Lv, Xi Peng#, Robust Multi-view Clustering with Incomplete Information, IEEE Trans Pattern Analysis and Machine Intelligence (TPAMI), Feb. 2022. DOI: 10.1109/TPAMI.2022.3155499.\[[Code](https://github.com/XLearning-SCU/2022-TPAMI-SURE)\]
+- **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, Huaibai Yan, Dezhong Peng, [Deep Semi-Supervised Multi-View Learning with Increasing Views](https://doi.org/10.1109/TCYB.2021.3093626)[J]. IEEE Transactions on Cybernetics, vol. 52, no. 12, pp. 12954-12965, Dec. 2022, doi: 10.1109/TCYB.2021.3093626. \[[Code](https://github.com/penghu-cs/ISVN.git)\]
 
 # 2021
 - **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, [Learning Cross-modal Retrieval with Noisy Labels](https://github.com/penghu-cs/MRL/raw/main/paper/Learning_Cross_Modal_Retrieval_with_Noisy_Labels.pdf)[C], IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 5403-5413. \[[Code](https://github.com/penghu-cs/MRL.git)\]
-
-- **Peng Hu**, Xi Peng, Hongyuan Zhu, Liangli Zhen, Jie Lin, Huaibai Yan, Dezhong Peng, [Deep Semi-Supervised Multi-View Learning with Increasing Views](https://doi.org/10.1109/TCYB.2021.3093626)[J]. IEEE Transactions on Cybernetics. [Early Access](http://doi.org/10.1109/TCYB.2021.3093626). \[[Code](https://github.com/penghu-cs/ISVN.git)\]
 
 - **Peng Hu**, Xi Peng, Hongyuan Zhu, Jie Lin, Liangli Zhen, Dezhong Peng, [Joint Versus Independent Multiview Hashing for Cross-View Retrieval](http://doi.org/10.1109/TCYB.2020.3027614)[J]. IEEE Transactions on Cybernetics, vol. 51, no. 10, pp. 4982-4993, Oct. 2021. \[[Code](https://github.com/penghu-cs/DCHN)\]
 
