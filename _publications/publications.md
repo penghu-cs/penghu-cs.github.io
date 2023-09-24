@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 # 2023
+- Yang Qin, Yuan Sun, Dezhong Peng, Joey Tianyi Zhou, Xi Peng, **Peng Hu**#, Cross-modal Active Complementary Learning with Self-refining Correspondence, Neural Information Processing Systems (NeurIPS), 2023.
 - Yanglin Feng, Hongyuan Zhu, Dezhong Peng, Xi Peng, **Peng Hu**#, ROAD: Robust Unsupervised Domain Adaptation with Noisy Labels, ACM International Conference on Multimedia (ACM MM), Ottawa, Canada. Oct. 29 – Nov. 3 2023.
 - Yijie Lin, Mouxing Yang, Jun Yu, **Peng Hu**, Changqing Zhang#, Xi Peng#, [Graph Matching with Bi-level Noisy Correspondence](http://pengxi.me/wp-content/uploads/2023/07/GMBNC.pdf), International Conference on Computer Vision (ICCV), Paris, France. Oct. 4-6, 2023. \[[Code](https://github.com/XLearning-SCU/2023-ICCV-COMMON)\]
 - Haobin Li, Yunfan Li, Mouxing Yang, **Peng Hu**, Dezhong Peng, Xi Peng#, [Incomplete Multi-view Clustering via Prototype-based Imputation](http://pengxi.me/wp-content/uploads/2023/07/Incomplete-Multi-view-Clustering-via-Prototype-based-Imputation.pdf), International Joint Conference on Artificial Intelligence (IJCAI), Macao, China. Aug. 19-25, 2023. 
