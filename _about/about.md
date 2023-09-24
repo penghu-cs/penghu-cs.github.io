@@ -9,6 +9,7 @@ author_profile: true
 
 News:
 ======
+- \[**Publications**\]: Sep. 22, 2023, one paper was accepted by the Thirty-Seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023) held at the New Orleans, Dec. 10-16, 2023. Congrats to Yang and coauthors.
 - \[**Publications**\]: Jul. 26, 2023, one paper was accepted by ACM Multimedia (ACM MM 2023). Congrats to Yanglin and coauthors.
 - \[**Publications**\]: Jul. 14, 2023, one paper was accepted by the International Conference on Computer Vision (ICCV 2023), Paris, France. Oct. 4-6, 2023. Congrats to Yijie and coauthors.
 - \[**Publications**\]: Apr. 21, 2023, one paper was accepted by the International Joint Conference on Artificial Intelligence (IJCAI 2023), Macao, China, Aug 19-25, 2023. Congrats to Haobin and coauthors.
