@@ -61,7 +61,7 @@ author_profile: true
 
 - **Peng Hu**, Dezhong Peng, Xu Wang, Yong Xiang, [Multimodal adversarial network for cross-modal retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0950705119302230)[J], Knowledge-Based Systems, 2019, 180: 38-50. \[[Code](https://github.com/penghu-cs/MAN)\]
 
-- Liangli Zhen\*, **Peng Hu**\*, Xu Wang, Dezhong Peng, [Deep supervised cross-modal retrieval](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 10394-10403. (* denotes equal contribution) \[[Code](https://github.com/penghu-cs/DSCMR)\]
+- Liangli Zhen\*, **Peng Hu**\*, Xu Wang, Dezhong Peng, [Deep supervised cross-modal retrieval](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2019: 10394-10403. (* denotes equal contribution) \[[Code](https://github.com/penghu-cs/DSCMR)\]
 
 # 2016
 - **Peng Hu**, Dezhong Peng, Yi Zhang, Yong Xiang, [Robust time-spread echo watermarking using characteristics of host signals](https://doi.org/10.1049/el.2015.1508)[J]. Electronics Letters, 2016, 52(1): 5-6.
