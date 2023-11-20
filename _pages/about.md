@@ -12,6 +12,8 @@ redirect_from:
 
 News:
 ======
+- \[**Publications**\]: Nov. 13, 2023, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Thanks to all coauthors.
+- \[**Publications**\]: Nov. 10, 2023, one paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)! Congrats to Pengxin and coauthors.
 - \[**Publications**\]: Sep. 22, 2023, one paper was accepted by the Thirty-Seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023) held at the New Orleans, Dec. 10-16, 2023. Congrats to Yang and coauthors.
 - \[**Publications**\]: Jul. 26, 2023, one paper was accepted by ACM Multimedia (ACM MM 2023). Congrats to Yanglin and coauthors.
 - \[**Publications**\]: Jul. 14, 2023, one paper was accepted by the International Conference on Computer Vision (ICCV 2023), Paris, France. Oct. 4-6, 2023. Congrats to Yijie and coauthors.
