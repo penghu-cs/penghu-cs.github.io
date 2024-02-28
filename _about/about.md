@@ -10,6 +10,7 @@ author_profile: true
 News:
 ======
 - \[**Publications**\]: Feb. 27, 2024, one paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2024). Congrats to Yang and coauthors.
+- \[**Publications**\]: Jan. 15, 2024, one paper was accepted by the International Conference on Learning Representation (ICLR)! Congrats to Mouxing and coauthors.
 - \[**Publications**\]: Jan. 9, 2024, one paper was accepted by the International Journal of Computer Vision (IJCV)! Congrats to Zhenyu and coauthors.
 - \[**Publications**\]: Dec. 12, 2023, three papers were accepted by The AAAI Conference on Artificial Intelligence (AAAI 2023). Congrats to Yiding, Yuan and coauthors.
 - \[**Publications**\]: Nov. 13, 2023, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Thanks to all coauthors.
