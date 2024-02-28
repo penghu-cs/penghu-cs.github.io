@@ -4,6 +4,12 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+# 2024
+- Yang Qin, Yingke Chen, Dezhong Peng, Xi Peng, Joey Tianyi Zhou, **Peng Hu**#, [Noisy-Correspondence Learning for Text-to-Image Person Re-identification](https://arxiv.org/pdf/2308.09911.pdf), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024. \[[Code](https://github.com/QinYang79/RDE)\]
+- Yiding Lu, Yijie Lin, Mouxing Yang, Dezhong Peng, **Peng Hu**#, Xi Peng#, [Decoupled Contrastive Multi-view Clustering with High-order Random Walks](https://arxiv.org/pdf/2308.11164.pdf), Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024), Feb. 20-27, Vancouver, Canada, 2024. \[[Code](https://github.com/XLearning-SCU/2024-AAAI-DIVIDE)\]
+- Yuan Sun, Jian Dai, Zhenwen Ren, Yingke Chen, Dezhong Peng，**Peng Hu**#, Dual Self-Paced Cross-Modal Hashing, Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024), Feb. 20-27, Vancouver, Canada, 2024.
+- Siyuan Hu, Zheng Wang, **Peng Hu**, Xi Peng, Jie Wu, Yew Soon Ong, Hongyuan Zhu, PrefAce: Face-centric Pretraining with Self-structure Aware Distillation, Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024), Feb. 20-27, Vancouver, Canada, 2024.
+
 # 2023
 - **Peng Hu**, Liangli Zhen, Xi Peng, Hongyuan Zhu, Jie Lin, Xu Wang, Dezhong Peng, [Deep Supervised Multi-View Learning with Graph Priors](https://dx.doi.org/10.1109/TIP.2023.3335825), IEEE Transactions on Image Processing (TIP), DOI: 10.1109/TIP.2023.3335825.\[[Code](https://github.com/penghu-cs/DMLPA)\]
 - Pengxin Zeng, Mouxing Yang, Yiding Lu, Changqing Zhang, **Peng Hu**, and Xi Peng#, [Semantic Invariant Multi-View Clustering With Fully Incomplete Information](https://dx.doi.org/10.1109/TPAMI.2023.3332967), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
