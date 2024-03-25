@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 # 2024
-- Xinran Ma*, Mouxing Yang*, Yunfan Li, **Peng Hu**, Jiancheng Lv, Xi Peng#, Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining, IEEE Trans Image Processing (TIP), 2024.
+- Xinran Ma*, Mouxing Yang*, Yunfan Li, **Peng Hu**, Jiancheng Lv, Xi Peng#, [Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining](https://dx.doi.org/10.1109/TIP.2024.3374221), IEEE Trans Image Processing (TIP), 2024.
 - Yang Qin, Yingke Chen, Dezhong Peng, Xi Peng, Joey Tianyi Zhou, **Peng Hu**#, [Noisy-Correspondence Learning for Text-to-Image Person Re-identification](https://arxiv.org/pdf/2308.09911.pdf), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024. \[[Code](https://github.com/QinYang79/RDE)\]
 - Mouxing Yang, Yunfan Li, Changqing Zhang, **Peng Hu**, Xi Peng#, Test-time Adaption against Multi-modal Reliability Bias, 12th International Conference on Learning Representations (ICLR 2024), May 7-11, Vienna, Austria, 2024.
 - Yiding Lu, Yijie Lin, Mouxing Yang, Dezhong Peng, **Peng Hu**#, Xi Peng#, [Decoupled Contrastive Multi-view Clustering with High-order Random Walks](https://arxiv.org/pdf/2308.11164.pdf), Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024), Feb. 20-27, Vancouver, Canada, 2024. \[[Code](https://github.com/XLearning-SCU/2024-AAAI-DIVIDE)\]
