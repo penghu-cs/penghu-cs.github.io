@@ -45,4 +45,4 @@ Professional Activity
     - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI);
     - IEEE Transactions on Image Processing (TIP);
     - IEEE Transactions on Neural Networks and Learning Systems (TNNLS);
-    - IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSYT).
+    - IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMCS).
