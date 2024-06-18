@@ -11,14 +11,14 @@ Research Interests
 - Multimedia Analysis
 - Neural Network Compression
 
-Awards and Honors
+<!--Awards and Honors
 ======
 - ICME Outstanding Reviewer Award, 2020
 - Outstanding PhD Graduate of Sichuan University, 2019.
 - First-class Scholarship of Sichuan University for PhD. students, 2018.
 - National Scholarship of China, Ministry of Education of China, 2018.
 - National Scholarship of China, Ministry of Education of China, 2016.
-- First-class Scholarship of Sichuan University for Master students, 2013-2015.
+- First-class Scholarship of Sichuan University for Master students, 2013-2015. -->
 
 
 Professional Activity
