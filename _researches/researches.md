@@ -7,7 +7,7 @@ author_profile: true
 
 Research Interests
 ======
-- Multi-view Learning
+- Multimodal Learning
 - Multimedia Analysis
 - Neural Network Compression
 
