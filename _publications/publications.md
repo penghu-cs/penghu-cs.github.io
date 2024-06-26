@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 # 2024
+- Yongxiang Li, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu**#, RoMo: Robust Unsupervised Multimodal Learning with Noisy Pseudo Labels, IEEE Transactions on Image Processing (TIP), 2024.
+- Yuan Sun, Yang Qin, Yongxiang Li, Dezhong Peng, Xi Peng, **Peng Hu**#, Robust Multi-View Clustering with Noisy Correspondence, IEEE Deep Supervised Multi-View Learning with Graph Priors (TKDE), 2024.
 - Yunfan Li, **Peng Hu**, Dezhong Peng, Jiancheng Lv, Jianping Fan, Xi Peng#, Image Clustering with External Guidance, International Conference on Machine Learning (ICML), 2024. (Oral, acc rate=1.5%)
 - Xinran Ma\*, Mouxing Yang\*, Yunfan Li, **Peng Hu**, Jiancheng Lv, Xi Peng#, [Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining](https://dx.doi.org/10.1109/TIP.2024.3374221), IEEE Trans Image Processing (TIP), 2024.  \[[Code](https://github.com/XLearning-SCU/2024-TIP-CREAM)\]
 - Zhenyu Huang, **Peng Hu**, Guocheng Niu, Xinyan Xiao, Jiancheng Lv, Xi Peng#, [Learning with Noisy Correspondence](https://doi.org/10.1007/s11263-024-02064-0), International Journal of Computer Vision (IJCV), 2024.
