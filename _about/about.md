@@ -9,6 +9,8 @@ author_profile: true
 
 News:
 ======
+- \[**Publications**\]: Jun 25, 2024, one paper was accepted by IEEE Transactions on Image Processing (TIP). Congrats to Yongxiang and coauthors.
+- - \[**Publications**\]: Jun 22, 2024, one paper was accepted by Transactions on Knowledge and Data Engineering (TKDE). Congrats to Yuan and coauthors.
 - \[**Publications**\]: May 3, 2024, one paper was accepted by the International Conference on Machine Learning (ICML 2024). Congrats to Yunfan and coauthors.
 - \[**Publications**\]: Feb. 27, 2024, one paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2024). Congrats to Yang and coauthors.
 - \[**Publications**\]: Jan. 15, 2024, one paper was accepted by the International Conference on Learning Representation (ICLR)! Congrats to Mouxing and coauthors.
