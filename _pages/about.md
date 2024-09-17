@@ -12,6 +12,7 @@ redirect_from:
 
 News:
 ======
+- \[**Services**\]: Sep. 14, 2024, I will serve for CVPR 2025 as Area Chair.
 - \[**Publications**\]: Jun 25, 2024, one paper was accepted by IEEE Transactions on Image Processing (TIP). Congrats to Yongxiang and coauthors.
 - \[**Publications**\]: Jun 22, 2024, one paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE). Congrats to Yuan and coauthors.
 - \[**Publications**\]: May 3, 2024, one paper was accepted by the International Conference on Machine Learning (ICML 2024). Congrats to Yunfan and coauthors.
