@@ -7,7 +7,7 @@ author_profile: true
 # 2024
 - Changhao He, Hongyuan Zhu, **Peng Hu**#, Xi Peng, Robust Variational Contrastive Learning for Partially View-unaligned Clustering, ACM International Conference on Multimedia (ACM MM), Melbourne, Australia. Oct. 28 – Nov. 1 2024.
 - Longan Wang, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu**#, Robust Contrastive Cross-modal Hashing with Noisy Labels, ACM International Conference on Multimedia (ACM MM), Melbourne, Australia. Oct. 28 – Nov. 1 2024.
-- Yongxiang Li, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu**#, RoMo: Robust Unsupervised Multimodal Learning with Noisy Pseudo Labels, IEEE Transactions on Image Processing (TIP), 2024.
+- Yongxiang Li, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu**#, [RoMo: Robust Unsupervised Multimodal Learning with Noisy Pseudo Labels](https://doi.org/10.1109/TIP.2024.3426482), IEEE Transactions on Image Processing (TIP), 2024.
 - Yuan Sun, Yang Qin, Yongxiang Li, Dezhong Peng, Xi Peng, **Peng Hu**#, [Robust Multi-View Clustering with Noisy Correspondence](https://doi.org/10.1109/TKDE.2024.3423307), IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.
 - Yunfan Li, **Peng Hu**, Dezhong Peng, Jiancheng Lv, Jianping Fan, Xi Peng#, Image Clustering with External Guidance, International Conference on Machine Learning (ICML), 2024. (Oral, acc rate=1.5%)
 - Xinran Ma\*, Mouxing Yang\*, Yunfan Li, **Peng Hu**, Jiancheng Lv, Xi Peng#, [Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining](https://doi.org/10.1109/TIP.2024.3374221), IEEE Trans Image Processing (TIP), 2024.  \[[Code](https://github.com/XLearning-SCU/2024-TIP-CREAM)\]
