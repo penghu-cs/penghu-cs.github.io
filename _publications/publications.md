@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 # 2024
-- Zhenyu Huang#, Mouxing Yang#, Xinyan Xiao, **Peng Hu**, Xi Peng#, Noise-robust Vision-language Pre-training with Positive-negative Learning, Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+- Zhenyu Huang*, Mouxing Yang*, Xinyan Xiao, **Peng Hu**, Xi Peng#, Noise-robust Vision-language Pre-training with Positive-negative Learning, Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 - Changhao He, Hongyuan Zhu, **Peng Hu**#, Xi Peng, Robust Variational Contrastive Learning for Partially View-unaligned Clustering, ACM International Conference on Multimedia (ACM MM), Melbourne, Australia. Oct. 28 – Nov. 1 2024.
 - Longan Wang, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu**#, Robust Contrastive Cross-modal Hashing with Noisy Labels, ACM International Conference on Multimedia (ACM MM), Melbourne, Australia. Oct. 28 – Nov. 1 2024.
 - Yongxiang Li, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu**#, [RoMo: Robust Unsupervised Multimodal Learning with Noisy Pseudo Labels](https://doi.org/10.1109/TIP.2024.3426482), IEEE Transactions on Image Processing (TIP), 2024.
