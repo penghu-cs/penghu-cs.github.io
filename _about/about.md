@@ -9,6 +9,7 @@ author_profile: true
 
 News:
 ======
+- \[**Publications**\]: Sep. 26, 2024, three papers were accepted by the Annual Conference on Neural Information Processing Systems (NeurIPS 2024). Congrats to Ruiming, Honglin, Haiyu, and coauthors.
 - \[**Services**\]: Sep. 14, 2024, I will serve for CVPR 2025 as Area Chair.
 - \[**Publications**\]: Jul. 16, 2024, two papers were accepted by ACM Multimedia (ACM MM). Congrats to Changhao, Longan, and coauthors.
 - \[**Publications**\]: Jun 25, 2024, one paper was accepted by IEEE Transactions on Image Processing (TIP). Congrats to Yongxiang and coauthors.
