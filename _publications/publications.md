@@ -6,8 +6,8 @@ author_profile: true
 ---
 # 2024
 - Ruiming Guo, Yijie Lin, Xi Peng, Mouxing Yang#, **Peng Hu**#, Robust Contrastive Multi-view Clustering against Dual Noisy Correspondence, Neural Information Processing Systems (NeurIPS), 2024.
-- Honglin Liu, Peng Hu, Changqing Zhang, Yunfan Li#, Xi Peng#, Interactive Deep Clustering via Value Mining, Neural Information Processing Systems (NeurIPS), 2024.
-- Haiyu Zhao, Lei Tian, Xinyan Xiao, Peng Hu, Yuanbiao Gou#, Xi Peng#, AverNet: All-in-one Video Restoration for Time-varying Unknown Degradations. Neural Information Processing Systems (NeurIPS), 2024.
+- Honglin Liu, **Peng Hu**, Changqing Zhang, Yunfan Li#, Xi Peng#, Interactive Deep Clustering via Value Mining, Neural Information Processing Systems (NeurIPS), 2024.
+- Haiyu Zhao, Lei Tian, Xinyan Xiao, **Peng Hu**, Yuanbiao Gou#, Xi Peng#, AverNet: All-in-one Video Restoration for Time-varying Unknown Degradations. Neural Information Processing Systems (NeurIPS), 2024.
 - Zhenyu Huang*, Mouxing Yang*, Xinyan Xiao, **Peng Hu**, Xi Peng#, Noise-robust Vision-language Pre-training with Positive-negative Learning, Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 - Changhao He, Hongyuan Zhu, **Peng Hu**#, Xi Peng, Robust Variational Contrastive Learning for Partially View-unaligned Clustering, ACM International Conference on Multimedia (ACM MM), Melbourne, Australia. Oct. 28 – Nov. 1 2024.
 - Longan Wang, Yang Qin, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu**#, Robust Contrastive Cross-modal Hashing with Noisy Labels, ACM International Conference on Multimedia (ACM MM), Melbourne, Australia. Oct. 28 – Nov. 1 2024.
