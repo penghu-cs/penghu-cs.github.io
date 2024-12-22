@@ -4,6 +4,9 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+# 2025
+- Yuan Li, Liangli Zhen, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu**#, Deep Evidential Hashing for Trustworthy Cross-modal Retrieval, Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025), 2025.
+  
 # 2024
 - Ruiming Guo\*, Mouxing Yang\*, Yijie Lin, Xi Peng, **Peng Hu**#, Robust Contrastive Multi-view Clustering against Dual Noisy Correspondence, Neural Information Processing Systems (NeurIPS), 2024.
 - Honglin Liu, **Peng Hu**, Changqing Zhang, Yunfan Li#, Xi Peng#, Interactive Deep Clustering via Value Mining, Neural Information Processing Systems (NeurIPS), 2024.
