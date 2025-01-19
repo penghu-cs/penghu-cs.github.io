@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 # 2025
+- Yanglin Feng, Yang Qin, Dezhong Peng, Hongyuan Zhu, Xi Peng, **Peng Hu**#, PointCloud-Text Matching: Benchmark Dataset and Baseline, IEEE Transactions on Multimedia, 2025.
+- Yongxiang Li, Yuan Sun, Yang Qin, Dezhong Peng, Xi Peng, **Peng Hu**#, Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification, IEEE Transactions on Information Forensics and Security, 2025.
+- Yunfan Li, Hancong Li, Yijie Lin, Dan Zhang, Dezhong Peng, Xiting Liu, Jie Xie, **Peng Hu**, Lu Chen, Han Luo, Xi Peng#, MetaQ: Fast, Scalable and Accurate Metacell Inference via Single-Cell Quantization, Nature Communications (NCOMMS), 2025.
 - Yuan Li, Liangli Zhen, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu**#, Deep Evidential Hashing for Trustworthy Cross-modal Retrieval, Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025), 2025.
   
 # 2024
