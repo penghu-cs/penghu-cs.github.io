@@ -9,7 +9,7 @@ author_profile: true
 - Haobin Li, **Peng Hu**, Qianjun Zhang, Xi Peng, XitingLiu, Mouxing Yang, Test-time Adaptation for Cross-modal Retrieval with Query Shift, The Thirteenth International Conference on Learning Representations (ICLR), 2025.
 - Yanglin Feng, Yang Qin, Dezhong Peng, Hongyuan Zhu, Xi Peng, **Peng Hu**#, PointCloud-Text Matching: Benchmark Dataset and Baseline, IEEE Transactions on Multimedia, 2025.
 - Yongxiang Li, Yuan Sun, Yang Qin, Dezhong Peng, Xi Peng, **Peng Hu**#, [Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification](https://doi.org/10.1109/TIFS.2025.3536613), IEEE Transactions on Information Forensics and Security, 2025.
-- Yunfan Li, Hancong Li, Yijie Lin, Dan Zhang, Dezhong Peng, Xiting Liu, Jie Xie, **Peng Hu**, Lu Chen, Han Luo, Xi Peng#, MetaQ: Fast, Scalable and Accurate Metacell Inference via Single-Cell Quantization, Nature Communications (NCOMMS), 2025.
+- Yunfan Li, Hancong Li, Yijie Lin, Dan Zhang, Dezhong Peng, Xiting Liu, Jie Xie, **Peng Hu**, Lu Chen, Han Luo, Xi Peng#, [MetaQ: Fast, Scalable and Accurate Metacell Inference via Single-Cell Quantization](https://doi.org/10.1038/s41467-025-56424-6), Nature Communications (NCOMMS), 2025.
 - Yuan Li, Liangli Zhen, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu**#, Deep Evidential Hashing for Trustworthy Cross-modal Retrieval, Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025), 2025.
   
 # 2024
