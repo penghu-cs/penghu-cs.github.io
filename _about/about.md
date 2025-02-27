@@ -9,6 +9,7 @@ author_profile: true
 
 News:
 ======
+- \[**Publications**\]: Feb. 27, 2025, five papers were accepted by the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), acc rate=22.1%.
 - \[**Services**\]: Dec. 7, 2024, I will serve for ICML 2025 as Area Chair.
 - \[**Publications**\]: Sep. 26, 2024, three papers were accepted by the Annual Conference on Neural Information Processing Systems (NeurIPS 2024). Congrats to Ruiming, Honglin, Haiyu, and coauthors.
 - \[**Services**\]: Sep. 14, 2024, I will serve for CVPR 2025 as Area Chair.
