@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 # 2025
+- Shuxian Li*, Changhao He*, Xiting Liu, Joey Tianyi Zhou, Xi Peng, **Peng Hu**#, Learning with Noisy Triplet Correspondence for Composed Image Retrieval, The IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025.
+- Yang Qin, Chao Chen, Zhihang Fu, Dezhong Peng, Xi Peng, **Peng Hu**#, Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification, The IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025.
+- Yuan Sun, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, **Peng Hu**#, ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence, The IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025.
+- Siyuan Duan, Yuan Sun, Dezhong Peng, Zheng Liu, Xiaomin Song, **Peng Hu**#, Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval, The IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025.
+- Boyun Li, Haiyu Zhao, Wenxin Wang, **Peng Hu**, Yuanbiao Gou, Xi Peng, MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration, The IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025.
 - Yang Qin, Chao Chen, Zhihang Fu, Ze Chen, Dezhong Peng#, **Peng Hu**#, Jieping Ye, ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL, International Conference on Learning Representations (ICLR), 2025.
 - Haobin Li, **Peng Hu**, Qianjun Zhang, Xi Peng, XitingLiu, Mouxing Yang, Test-time Adaptation for Cross-modal Retrieval with Query Shift, The Thirteenth International Conference on Learning Representations (ICLR), 2025.
 - Yanglin Feng, Yang Qin, Dezhong Peng, Hongyuan Zhu, Xi Peng, **Peng Hu**#, PointCloud-Text Matching: Benchmark Dataset and Baseline, IEEE Transactions on Multimedia, 2025.
