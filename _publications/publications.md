@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 # 2025
-- Shuxian Li*, Changhao He*, Xiting Liu, Joey Tianyi Zhou, Xi Peng, **Peng Hu**#, Learning with Noisy Triplet Correspondence for Composed Image Retrieval, The IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025.
+- Shuxian Li\*, Changhao He\*, Xiting Liu, Joey Tianyi Zhou, Xi Peng, **Peng Hu**#, Learning with Noisy Triplet Correspondence for Composed Image Retrieval, The IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025.
 - Yang Qin, Chao Chen, Zhihang Fu, Dezhong Peng, Xi Peng, **Peng Hu**#, Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification, The IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025.
 - Yuan Sun, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, **Peng Hu**#, ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence, The IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025.
 - Siyuan Duan, Yuan Sun, Dezhong Peng, Zheng Liu, Xiaomin Song, **Peng Hu**#, Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval, The IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025.
