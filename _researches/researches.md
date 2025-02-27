@@ -29,23 +29,24 @@ Professional Activity
     - Senior Area Chair Committee (SACC) for Vision And Learning SEminar (VALSE).
     - VALSE Student Committee (VSC).
 - Area Chair/Senior Program Committee Member:
-    - International Conference on Machine Learning (ICML) 2025;
-    - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025;
-    - European Conference on Computer Vision (ECCV) 2024;
-    - International Joint Conference on Artificial Intelligence (IJCAI) 2021.
+    - International Conference on Machine Learning (ICML);
+    - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR);
+    - European Conference on Computer Vision (ECCV);
+    - International Joint Conference on Artificial Intelligence (IJCAI).
 - Program Committee Member:
-    - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2024
-    - International Conference on Machine Learning (ICML) 2021-2024
-    - International Conference on Learning Representations (ICLR) 2021-2024
-    - Conference on Neural Information Processing Systems (NeurIPS) 2020-2024
-    - European Conference on Computer Vision (ECCV) 2022-2023
-    - International Conference on Computer Vision (ICCV) 2021-2023
-    - AAAI Conference on Artificial Intelligence (AAAI) 2019-2023
-    - ACM International Conference on Multimedia (ACM MM) 2021-2023
-    - International Joint Conference on Artificial Intelligence (IJCAI) 2019-2023
-    - IEEE International Conference on Multimedia and Expo (ICME), 2020-2023.
+    - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+    - International Conference on Machine Learning (ICML)
+    - International Conference on Learning Representations (ICLR)
+    - Conference on Neural Information Processing Systems (NeurIPS)
+    - European Conference on Computer Vision (ECCV)
+    - International Conference on Computer Vision (ICCV)
+    - AAAI Conference on Artificial Intelligence (AAAI)
+    - ACM International Conference on Multimedia (ACM MM)
+    - International Joint Conference on Artificial Intelligence (IJCAI)
 - Selected Journal Reviewer:
     - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI);
+    - International Journal of Computer Vision (IJCV);
     - IEEE Transactions on Image Processing (TIP);
+    - IEEE Transactions on Knowledge and Data Engineering (TKDE);
     - IEEE Transactions on Neural Networks and Learning Systems (TNNLS);
     - IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMCS).
