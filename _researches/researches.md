@@ -28,11 +28,11 @@ Professional Activity
 - Member of:
     - Senior Area Chair Committee (SACC) for Vision And Learning SEminar (VALSE).
     - VALSE Student Committee (VSC).
-- Area Chair/Senior Program Committee Member:
+- Area Chair:
     - International Conference on Machine Learning (ICML);
     - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR);
     - European Conference on Computer Vision (ECCV);
-    - International Joint Conference on Artificial Intelligence (IJCAI).
+    - ACM International Conference on Multimedia (ACM MM).
 - Program Committee Member:
     - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
     - International Conference on Machine Learning (ICML)
