@@ -30,6 +30,7 @@ Professional Activity
     - VALSE Student Committee (VSC).
 - Area Chair:
     - International Conference on Machine Learning (ICML);
+    - Conference on Neural Information Processing Systems (NeurIPS);
     - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR);
     - European Conference on Computer Vision (ECCV);
     - ACM International Conference on Multimedia (ACM MM).
