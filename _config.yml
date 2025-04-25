@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Peng Hu"
+title                    : "Prof. Peng Hu"
 title_separator          : "-"
 name                     : &name "Peng Hu (胡鹏)"
 description              : &description "personal description"
