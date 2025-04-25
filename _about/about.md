@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Prof. Peng Hu"
 permalink: /about/
 author_profile: true
 ---
