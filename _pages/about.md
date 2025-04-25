@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Prof. Peng Hu"
 excerpt: ""
 author_profile: true
 redirect_from: 
