@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 # 2025
+- Boyun Li\*, Yuanbiao Gou\*, Wenxin Wang, **Peng Hu**, Wangmeng Zuo, Xi Peng#, Relationship Quantification of Image Degradations, IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI), 2025.
+- Siyuan Duan, Yuan Sun, Dezhong Peng, Guiduo Duan, Xi Peng, **Peng Hu**#, Deep Fuzzy Multi-view Learning for Reliable Classification, Forty-second International Conference on Machine Learning(ICML), 2025.
+- Qihong Song, Xiting Liu, Hongyuan Zhu, Joey Tianyi Zhou, Xi Peng, **Peng Hu**#, Deep Unsupervised Hashing via External Guidance, Forty-second International Conference on Machine Learning(ICML), 2025.
+- Siyuan Duan, Wenyuan Wu, **Peng Hu**, Zhenwen Ren, Dezhong Peng, and Yuan Sun#, CoPINN: Cognitive Physics-informed Neural Network, ICML 2025 (CCF-A类), (Spotlight, acc rate=2.6%).
+- Guofeng Ding, Yiding Lu, **Peng Hu**, Mouxing Yang, Yijie Lin*, Xi Peng#, Visual Abstraction: A Plug-and-Play Approach for Text-Visual Retrieval, Forty-second International Conference on Machine Learning(ICML), 2025.
+- Yiding Lu, Mouxing Yang, Dezhong Peng, **Peng Hu**, Yijie Lin*, Xi Peng#, LLaVA-ReID: Selective Multi-image Questioner for Interactive Person Re-Identification, Forty-second International Conference on Machine Learning(ICML), 2025.
+- Kai Guo, Jiedong Wang, Xi Peng, **Peng Hu**, Hao Wang, Disentangling Multi-view Representations via Curriculum Learning with Learnable Prior,  The 34th International Joint Conference on Artificial Intelligence (IJCAI-25), 2025.
+- Jiedong Wang, Kai Guo, **Peng Hu**, Xi Peng, Hao Wang, Learning Robust Multi-view Representation Using Dual-masked VAEs, The 34th International Joint Conference on Artificial Intelligence (IJCAI-25), 2025.
+- Peng Hu, Yang Qin, Yuanbiao Gou, Yunfan Li, Mouxing Yang, Xi Peng#, Probabilistic Multimodal Learning with von Mises-Fisher Distributions, The 34th International Joint Conference on Artificial Intelligence (IJCAI-25), 2025.
 - Shuxian Li\*, Changhao He\*, Xiting Liu, Joey Tianyi Zhou, Xi Peng, **Peng Hu**#, Learning with Noisy Triplet Correspondence for Composed Image Retrieval, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 - Yang Qin, Chao Chen, Zhihang Fu, Dezhong Peng, Xi Peng, **Peng Hu**#, Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 - Yuan Sun, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, **Peng Hu**#, ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
