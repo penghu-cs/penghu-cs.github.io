@@ -25,7 +25,7 @@ author_profile: true
 - Yongxiang Li, Yuan Sun, Yang Qin, Dezhong Peng, Xi Peng, **Peng Hu**#, [Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification](https://doi.org/10.1109/TIFS.2025.3536613), IEEE Transactions on Information Forensics and Security, 2025.
 - Yunfan Li, Hancong Li, Yijie Lin, Dan Zhang, Dezhong Peng, Xiting Liu, Jie Xie, **Peng Hu**, Lu Chen, Han Luo, Xi Peng#, [MetaQ: Fast, Scalable and Accurate Metacell Inference via Single-Cell Quantization](https://doi.org/10.1038/s41467-025-56424-6), Nature Communications (NCOMMS), 2025.
 - Yuan Li, Liangli Zhen, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu**#, [Deep Evidential Hashing for Trustworthy Cross-modal Retrieval](https://doi.org/10.1609/aaai.v39i17.34043), Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025), 2025.
-- Zhenyu Huang*, Mouxing Yang*, Xinyan Xiao, **Peng Hu**, Xi Peng#, [Noise-robust Vision-language Pre-training with Positive-negative Learning](https://doi.org/10.1109/TPAMI.2024.3462996), Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 47, no. 1, pp. 338-350, Jan. 2025
+- Zhenyu Huang\*, Mouxing Yang\*, Xinyan Xiao, **Peng Hu**, Xi Peng#, [Noise-robust Vision-language Pre-training with Positive-negative Learning](https://doi.org/10.1109/TPAMI.2024.3462996), Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 47, no. 1, pp. 338-350, Jan. 2025
   
 # 2024
 - Ruiming Guo\*, Mouxing Yang\*, Yijie Lin, Xi Peng, **Peng Hu**#, [Robust Contrastive Multi-view Clustering against Dual Noisy Correspondence](https://openreview.net/pdf?id=6OvTbDClUn), Neural Information Processing Systems (NeurIPS), 2024.
