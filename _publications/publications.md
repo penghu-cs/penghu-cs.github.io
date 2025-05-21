@@ -8,7 +8,7 @@ author_profile: true
 - Boyun Li\*, Yuanbiao Gou\*, Wenxin Wang, **Peng Hu**, Wangmeng Zuo, Xi Peng#, Relationship Quantification of Image Degradations, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.
 - Qihong Song, Xiting Liu, Hongyuan Zhu, Joey Tianyi Zhou, Xi Peng, **Peng Hu**#, Deep Unsupervised Hashing via External Guidance, Forty-second International Conference on Machine Learning (ICML), 2025.
 - Siyuan Duan, Yuan Sun, Dezhong Peng, Guiduo Duan, Xi Peng, **Peng Hu**#, Deep Fuzzy Multi-view Learning for Reliable Classification, Forty-second International Conference on Machine Learning (ICML), 2025.
-- Siyuan Duan, Wenyuan Wu, **Peng Hu**, Zhenwen Ren, Dezhong Peng, and Yuan Sun#, CoPINN: Cognitive Physics-informed Neural Network, Forty-second International Conference on Machine Learning (ICML), (Spotlight, acc rate=2.6%).
+- Siyuan Duan, Wenyuan Wu, **Peng Hu**, Zhenwen Ren, Dezhong Peng, Yuan Sun#, CoPINN: Cognitive Physics-informed Neural Network, Forty-second International Conference on Machine Learning (ICML), (Spotlight, acc rate=2.6%).
 - Guofeng Ding, Yiding Lu, **Peng Hu**, Mouxing Yang, Yijie Lin*, Xi Peng#, Visual Abstraction: A Plug-and-Play Approach for Text-Visual Retrieval, Forty-second International Conference on Machine Learning (ICML), 2025.
 - Yiding Lu, Mouxing Yang, Dezhong Peng, **Peng Hu**, Yijie Lin*, Xi Peng#, LLaVA-ReID: Selective Multi-image Questioner for Interactive Person Re-Identification, Forty-second International Conference on Machine Learning (ICML), 2025.
 - Kai Guo, Jiedong Wang, Xi Peng, **Peng Hu**, Hao Wang, Disentangling Multi-view Representations via Curriculum Learning with Learnable Prior,  The 34th International Joint Conference on Artificial Intelligence (IJCAI-25), 2025.
