@@ -23,7 +23,7 @@ Research Interests
 
 Professional Activity
 ======
-- Associate Editor Editor:
+- Associate Editor:
     - Pattern Recognition (IF: 7.6), 2025/06-Present;
     - The Visual Computer journal (IF: 2.9), 2022/05-Present;
 - Member of:
