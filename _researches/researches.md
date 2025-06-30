@@ -24,7 +24,8 @@ Research Interests
 Professional Activity
 ======
 - Associate Editor Editor:
-    - The Visual Computer journal (IF: 2.601), 2022/05-Present;
+    - Pattern Recognition (IF: 7.6), 2022/05-Present;
+    - The Visual Computer journal (IF: 2.9), 2022/05-Present;
 - Member of:
     - Senior Area Chair Committee (SACC) for Vision And Learning SEminar (VALSE).
     - VALSE Student Committee (VSC).
