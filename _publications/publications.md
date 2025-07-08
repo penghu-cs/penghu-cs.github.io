@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 # 2025
-- Yang Qin, Lifu Huang, Dezhong Peng, Bohan Jiang, Joey Tianyi Zhou, Xi Peng, **Peng Hu**#, Trustworthy Visual-Textual Retrieval, IEEE Transactions on Image Processing (TIP), 2025.
+- Yang Qin, Lifu Huang, Dezhong Peng, Bohan Jiang, Joey Tianyi Zhou, Xi Peng, **Peng Hu**#, [Trustworthy Visual-Textual Retrieval](https://doi.org/10.1109/TIP.2025.3587575), IEEE Transactions on Image Processing (TIP), 2025.
 - Boyun Li\*, Yuanbiao Gou\*, Wenxin Wang, **Peng Hu**, Wangmeng Zuo, Xi Peng#, [Relationship Quantification of Image Degradations](https://doi.org/10.1109/TPAMI.2025.3568690), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.
 - Qihong Song, Xiting Liu, Hongyuan Zhu, Joey Tianyi Zhou, Xi Peng, **Peng Hu**#, [Deep Unsupervised Hashing via External Guidance](https://openreview.net/pdf?id=tAwNFWTXSr), Forty-second International Conference on Machine Learning (ICML), 2025.
 - Siyuan Duan, Yuan Sun, Dezhong Peng, Guiduo Duan, Xi Peng, **Peng Hu**#, [Deep Fuzzy Multi-view Learning for Reliable Classification](https://openreview.net/pdf?id=ZzuaeYvLsJ), Forty-second International Conference on Machine Learning (ICML), 2025.
