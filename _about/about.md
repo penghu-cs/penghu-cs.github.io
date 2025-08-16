@@ -9,6 +9,7 @@ author_profile: true
 
 News:
 ======
+- \[**Services**\]: Aug. 16, 2025, I will serve for ICLR 2026 as Area Chair.
 - \[**Publications**\]: May. 1, 2025, three IJCAI, five ICML, and 1 TPAMI papers were accepted!
 - \[**Services**\]: Apr. 9, 2025, I will serve for NeurIPS 2025 as Area Chair.
 - \[**Publications**\]: Feb. 27, 2025, five papers were accepted by the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), acc rate=22.1%.
