@@ -30,6 +30,7 @@ Professional Activity
     - Senior Area Chair Committee (SACC) for Vision And Learning SEminar (VALSE)
     - VALSE Student Committee (VSC)
 - Area Chair:
+    - International Conference on Learning Representations (ICLR)
     - International Conference on Machine Learning (ICML)
     - Conference on Neural Information Processing Systems (NeurIPS)
     - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
