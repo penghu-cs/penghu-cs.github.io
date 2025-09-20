@@ -12,6 +12,7 @@ redirect_from:
 
 News:
 ======
+- \[**Publications**\]: Sep. 19, 2025, four papers were accepted by the Annual Conference on Neural Information Processing Systems (NeurIPS 2025). Congrats to Yanglin, Yongxiang, Honglin, and coauthors.
 - \[**Services**\]: Aug. 16, 2025, I will serve for ICLR 2026 as Area Chair.
 - \[**Publications**\]: May. 1, 2025, three IJCAI, five ICML, and 1 TPAMI papers were accepted!
 - \[**Services**\]: Apr. 9, 2025, I will serve for NeurIPS 2025 as Area Chair.
