@@ -8,7 +8,7 @@ author_profile: true
 - Yanglin Feng, Yongxiang Li, Yuan Sun, Yang Qin, Dezhong Peng, **Peng Hu**#, Interactive Cross-modal Learning for Text-3D Scene Retrieval, Neural Information Processing Systems (NeurIPS), 2025. (Oral)
 - Yanglin Feng, Hongyuan Zhu, Dezhong Peng, Xi Peng, Xiaomin Song, **Peng Hu**#, Robust Cross-modal Alignment Learning for Cross-Scene Spatial Reasoning and Grounding, Neural Information Processing Systems (NeurIPS), 2025.
 - Yongxiang Li, Yanglin Feng, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu**#, Learning Source-Free Domain Adaptation for Visible-Infrared Person Re-- Identification, Neural Information Processing Systems (NeurIPS), 2025.
-- Honglin Liu, Chao Sun, Peng Hu, Yunfan Li, Xi Peng, Conditional Representation Learning for Customized Tasks, Neural Information Processing Systems (NeurIPS), 2025. (Spotlight)
+- Honglin Liu, Chao Sun, **Peng Hu**, Yunfan Li, Xi Peng, Conditional Representation Learning for Customized Tasks, Neural Information Processing Systems (NeurIPS), 2025. (Spotlight)
 - Yang Qin, Lifu Huang, Dezhong Peng, Bohan Jiang, Joey Tianyi Zhou, Xi Peng, **Peng Hu**#, [Trustworthy Visual-Textual Retrieval](https://doi.org/10.1109/TIP.2025.3587575), IEEE Transactions on Image Processing (TIP), 2025.
 - Boyun Li\*, Yuanbiao Gou\*, Wenxin Wang, **Peng Hu**, Wangmeng Zuo, Xi Peng#, [Relationship Quantification of Image Degradations](https://doi.org/10.1109/TPAMI.2025.3568690), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.
 - Qihong Song, Xiting Liu, Hongyuan Zhu, Joey Tianyi Zhou, Xi Peng, **Peng Hu**#, [Deep Unsupervised Hashing via External Guidance](https://openreview.net/pdf?id=tAwNFWTXSr), Forty-second International Conference on Machine Learning (ICML), 2025.
