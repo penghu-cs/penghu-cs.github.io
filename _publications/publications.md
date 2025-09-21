@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 # 2025
-- Yanglin Feng, Yongxiang Li, Yuan Sun, Yang Qin, Dezhong Peng, **Peng Hu**#, Interactive Cross-modal Learning for Text-3D Scene Retrieval, Neural Information Processing Systems (NeurIPS), 2025. (Oral)
+- Yanglin Feng, Yongxiang Li, Yuan Sun, Yang Qin, Dezhong Peng, **Peng Hu**#, Interactive Cross-modal Learning for Text-3D Scene Retrieval, Neural Information Processing Systems (NeurIPS), 2025. 
 - Yanglin Feng, Hongyuan Zhu, Dezhong Peng, Xi Peng, Xiaomin Song, **Peng Hu**#, Robust Cross-modal Alignment Learning for Cross-Scene Spatial Reasoning and Grounding, Neural Information Processing Systems (NeurIPS), 2025.
 - Yongxiang Li, Yanglin Feng, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu**#, Learning Source-Free Domain Adaptation for Visible-Infrared Person Re-- Identification, Neural Information Processing Systems (NeurIPS), 2025.
 - Honglin Liu, Chao Sun, **Peng Hu**, Yunfan Li, Xi Peng, Conditional Representation Learning for Customized Tasks, Neural Information Processing Systems (NeurIPS), 2025. (Spotlight)
