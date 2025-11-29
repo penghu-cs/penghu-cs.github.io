@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 # 2025
+- Haobin Li, Yijie Lin, **Peng Hu**, Mouxing Yang#, Xi Peng#, Community-aware Multi-view Representation Learning with Incomplete Information, IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI), 2025.
+- Yang Qin, Yuan Sun, Xi Peng, Dezhong Peng, Joey Tianyi Zhou, Xiaomin Song, **Peng Hu#**, Robust Semi-paired Multimodal Learning for Cross-modal Retrieval, The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026), Jan. 20-27, Singapore, 2026.
 - Yanglin Feng, Yongxiang Li, Yuan Sun, Yang Qin, Dezhong Peng, **Peng Hu**#, Interactive Cross-modal Learning for Text-3D Scene Retrieval, Neural Information Processing Systems (NeurIPS), 2025. 
 - Yanglin Feng, Hongyuan Zhu, Dezhong Peng, Xi Peng, Xiaomin Song, **Peng Hu**#, Robust Cross-modal Alignment Learning for Cross-Scene Spatial Reasoning and Grounding, Neural Information Processing Systems (NeurIPS), 2025.
 - Yongxiang Li, Yanglin Feng, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu**#, Learning Source-Free Domain Adaptation for Visible-Infrared Person Re-- Identification, Neural Information Processing Systems (NeurIPS), 2025.
