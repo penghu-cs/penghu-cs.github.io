@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 # 2026
+- Changhao He, Di Xue, Shuxian Li, Yanji Hao, Xi Peng, **Peng Hu#**, Bootstrapping Multi-view Learning for Test-time Noisy Correspondence, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)
+- Yiwen Shan, Haiyu Zhao, **Peng Hu**, Xi Peng, Yuanbiao Gou, Next-Scale Prediction: A Self-Supervised Approach for Real-World Image Denoising, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)
 - Yang Qin, Yuan Sun, Xi Peng, Dezhong Peng, Joey Tianyi Zhou, Xiaomin Song, **Peng Hu#**, Robust Semi-paired Multimodal Learning for Cross-modal Retrieval, The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026), Jan. 20-27, Singapore, 2026.
 - Haobin Li, Yijie Lin, **Peng Hu**, Mouxing Yang#, Xi Peng#, Community-aware Multi-view Representation Learning with Incomplete Information, IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI), 2026.
 
