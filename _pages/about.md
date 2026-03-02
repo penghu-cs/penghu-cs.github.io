@@ -12,6 +12,7 @@ redirect_from:
 
 News:
 ======
+- \[**Publications**\]: Feb. 21, 2026, two papers were accepted by the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR). Congrats to Changhao, Yiwen, and coauthors.
 - \[**Services**\]: Nov. 20, 2025, I will serve for ICML 2026 as Area Chair.
 - \[**Publications**\]: Sep. 19, 2025, four papers were accepted by the Annual Conference on Neural Information Processing Systems (NeurIPS 2025). Congrats to Yanglin, Yongxiang, Honglin, and coauthors.
 - \[**Services**\]: Aug. 16, 2025, I will serve for ICLR 2026 as Area Chair.
