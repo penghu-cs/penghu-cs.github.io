@@ -9,12 +9,13 @@ author_profile: true
 
 News:
 ======
+- \[**Publications**\]: Feb. 21, 2026, two papers were accepted by the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR). Congrats to Changhao, Yiwen, and coauthors.
 - \[**Services**\]: Nov. 20, 2025, I will serve for ICML 2026 as Area Chair.
 - \[**Publications**\]: Sep. 19, 2025, four papers were accepted by the Annual Conference on Neural Information Processing Systems (NeurIPS 2025). Congrats to Yanglin, Yongxiang, Honglin, and coauthors.
 - \[**Services**\]: Aug. 16, 2025, I will serve for ICLR 2026 as Area Chair.
 - \[**Publications**\]: May. 1, 2025, three IJCAI, five ICML, and 1 TPAMI papers were accepted!
 - \[**Services**\]: Apr. 9, 2025, I will serve for NeurIPS 2025 as Area Chair.
-- \[**Publications**\]: Feb. 27, 2025, five papers were accepted by the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), acc rate=22.1%.
+- \[**Publications**\]: Feb. 27, 2025, five papers were accepted by the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), acc rate=22.1%.
 - \[**Services**\]: Dec. 7, 2024, I will serve for ICML 2025 as Area Chair.
 - \[**Publications**\]: Sep. 26, 2024, three papers were accepted by the Annual Conference on Neural Information Processing Systems (NeurIPS 2024). Congrats to Ruiming, Honglin, Haiyu, and coauthors.
 - \[**Services**\]: Sep. 14, 2024, I will serve for CVPR 2025 as Area Chair.
