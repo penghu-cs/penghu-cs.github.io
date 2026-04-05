@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 # 2026
-- Yang Qin*, Yanglin Feng*, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu#**, Deep Information-Balanced Multimodal Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.
+- Yang Qin*, Yanglin Feng*, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu#**, [Deep Information-Balanced Multimodal Learning](https://doi.org/10.1109/TPAMI.2026.3681770), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.
 - Changhao He, Di Xue, Shuxian Li, Yanji Hao, Xi Peng, **Peng Hu#**, Bootstrapping Multi-view Learning for Test-time Noisy Correspondence, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
 - Yiwen Shan, Haiyu Zhao, **Peng Hu**, Xi Peng, Yuanbiao Gou, Next-Scale Prediction: A Self-Supervised Approach for Real-World Image Denoising, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
 - Haochen Zhou, Guofeng Ding, Mouxing Yang, **Peng Hu**, Yijie Lin, Xi Peng, Uncover Underlying Correspondence for Robust Multi-view Clustering, The Fourteenth International Conference on Learning Representations (ICLR), 2026. (Oral, acc rate=1.18%)
