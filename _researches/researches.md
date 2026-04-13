@@ -24,12 +24,14 @@ Research Interests
 Professional Activity
 ======
 - Associate Editor:
-    - Pattern Recognition (IF: 7.6), 2025/06-Present
-    - The Visual Computer journal (IF: 2.9), 2022/05-Present
+    - Pattern Recognition (IF: 7.6)
+    - The Visual Computer journal (IF: 2.9)
 - Member of:
     - Senior Area Chair Committee (SACC) for Vision And Learning SEminar (VALSE)
     - VALSE Student Committee (VSC)
-- Area Chair:
+- Senior Area Chair (SAC):
+    - Conference on Neural Information Processing Systems (NeurIPS)
+- Area Chair (AC):
     - International Conference on Learning Representations (ICLR)
     - International Conference on Machine Learning (ICML)
     - Conference on Neural Information Processing Systems (NeurIPS)
