@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 # 2026
+- Ruitao Pu, Chao Su, **Peng Hu**, Zhenwen Ren, Dezhong Peng, Yuan Sun#, NOTO: Noise-Tolerate Evidential Learning for Open-Set Cross-modal Retrieval，IEEE Transactions on Image Processing (TIP), 2026.
+- Yanglin Feng, Yang Qin, Dezhong Peng, Rui Wang, Xiaomin Song, **Peng Hu#**, Multimodal Nested Learning for Decoupled and Coordinated Optimization, International Conference on Machine Learning (ICML), 2026.
+- Kaiqi Chen, Yang Qin, Changhao He, Xi Peng, **Peng Hu#**, DOUBT: Decoupled Object-level Understanding and Bridging via vMF-based Trustworthiness for Hallucination Detection in MLLMs, International Conference on Machine Learning (ICML), 2026.
+- Changhao He, Shuhaoyan, Shuxian Li, Xi Peng, **Peng Hu#**, RLSF-V: Mitigating Hallucinations in MLLMs via Fuzzy Semantic Self-Feedback, International Conference on Machine Learning (ICML), 2026.
+- Xincheng Sun, Ruitao Pu, Guangsi Shi, Zhenwen Ren, **Peng Hu**, Yuan Sun#, Learning with Admissibility: Robust Fuzzy Hashing for Cross-Modal Retrieval with Noisy Labels, International Conference on Machine Learning (ICML), 2026.
 - Yang Qin*, Yanglin Feng*, Yuan Sun, Dezhong Peng, Xi Peng, **Peng Hu#**, [Deep Information-Balanced Multimodal Learning](https://doi.org/10.1109/TPAMI.2026.3681770), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.
 - Changhao He, Di Xue, Shuxian Li, Yanji Hao, Xi Peng, **Peng Hu#**, Bootstrapping Multi-view Learning for Test-time Noisy Correspondence, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
 - Yiwen Shan, Haiyu Zhao, **Peng Hu**, Xi Peng, Yuanbiao Gou, Next-Scale Prediction: A Self-Supervised Approach for Real-World Image Denoising, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
