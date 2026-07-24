@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 # 2026
+- Shuxian Li, Changhao He, Xi Peng, **Peng Hu#**, Robust Multiview Learning Under Noisy Correspondence, Proceedings of the 34th ACM International Conference on Multimedia (ACM MM), 10–14 November 2026.
+- Shuai Lyu, Yuning Gong, Ruiling Gao, Xiaoran Shang, Zhonghong Ou, Ping Zong, Yifan Zhu, Yuan Sun, Yang Qin, **Peng Hu**, Multi-Branch Policy Optimization for Multimodal Large Language Models, Proceedings of the 34th ACM International Conference on Multimedia (ACM MM), 10–14 November 2026.
 - Ruitao Pu, Chao Su, **Peng Hu**, Zhenwen Ren, Dezhong Peng, Yuan Sun#, NOTO: Noise-Tolerate Evidential Learning for Open-Set Cross-modal Retrieval，IEEE Transactions on Image Processing (TIP), 2026.
 - Yanglin Feng, Yang Qin, Dezhong Peng, Rui Wang, Xiaomin Song, **Peng Hu#**, Multimodal Nested Learning for Decoupled and Coordinated Optimization, International Conference on Machine Learning (ICML), 2026.
 - Kaiqi Chen, Yang Qin, Changhao He, Xi Peng, **Peng Hu#**, DOUBT: Decoupled Object-level Understanding and Bridging via vMF-based Trustworthiness for Hallucination Detection in MLLMs, International Conference on Machine Learning (ICML), 2026.
