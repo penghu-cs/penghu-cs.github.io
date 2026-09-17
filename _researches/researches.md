@@ -24,6 +24,7 @@ Research Interests
 Professional Activity
 ======
 - Associate Editor:
+    - IEEE Transactions on Multimedia (CCF A, IF: 9.7)
     - Pattern Recognition (IF: 7.6)
     - The Visual Computer journal (IF: 2.9)
 - Member of:
