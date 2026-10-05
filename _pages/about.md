@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Peng Hu (胡鹏)** is currently a professor at the College of Computer Science, Sichuan University. From 2019 to 2020, he was a research scientist at Institute for Infocomm, Research Agency for Science, Technology, and Research (A*STAR) Singapore. He received his Ph.D. degree in computer science and technology from Sichuan University, China, in 2019. His current interests mainly focus on Machine Learning, Multimodal Learning, Robust \& Trustworthy AI, Multimodal Large Language Models, and Physical AI.
+**Peng Hu (胡鹏)** is currently a professor at the College of Computer Science, Sichuan University. From 2019 to 2020, he was a research scientist at Institute for Infocomm, Research Agency for Science, Technology, and Research (A*STAR) Singapore. He received his Ph.D. degree in computer science and technology from Sichuan University, China, in 2019. His current interests mainly focus on Machine Learning, Multimodal Learning, Robust & Trustworthy AI, Multimodal Large Language Models, and Physical AI.
 News:
 ======
 - \[**Publications**\]: Feb. 21, 2026, two papers were accepted by the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR). Congrats to Changhao, Yiwen, and coauthors.
