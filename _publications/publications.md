@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 # 2026
-- Shuxian Li, Changhao He, Xi Peng, **Peng Hu#**, Robust Multiview Learning Under Noisy Correspondence, Proceedings of the 34th ACM International Conference on Multimedia (ACM MM), 10–14 November 2026.
-- Shuai Lyu, Yuning Gong, Ruiling Gao, Xiaoran Shang, Zhonghong Ou, Ping Zong, Yifan Zhu, Yuan Sun, Yang Qin, **Peng Hu**, Multi-Branch Policy Optimization for Multimodal Large Language Models, Proceedings of the 34th ACM International Conference on Multimedia (ACM MM), 10–14 November 2026.
+- Yongxiang Li, Yanglin Feng, Yuan Sun, Dezhong Peng, Rui Wang, Xiaomin Song, **Peng Hu#**. [Learning Cross-modal Self-distillation Hashing with Noisy Labels](https://doi.org/10.1109/TKDE.2026.3737624)[J]. IEEE Transactions on Knowledge and Data Engineering, 2026.
+- Shuxian Li, Changhao He, Xi Peng, **Peng Hu#**, [Robust Multiview Learning Under Noisy Correspondence](https://doi.org/10.1145/3767308.3836492), Proceedings of the 34th ACM International Conference on Multimedia (ACM MM), 10–14 November 2026.
+- Shuai Lyu, Yuning Gong, Ruiling Gao, Xiaoran Shang, Zhonghong Ou, Ping Zong, Yifan Zhu, Yuan Sun, Yang Qin, **Peng Hu**, [Multi-Branch Policy Optimization for Multimodal Large Language Models](https://doi.org/10.1145/3767308.3836564), Proceedings of the 34th ACM International Conference on Multimedia (ACM MM), 10–14 November 2026.
 - Ruitao Pu, Chao Su, **Peng Hu**, Zhenwen Ren, Dezhong Peng, Yuan Sun#, [NOTO: Noise-Tolerate Evidential Learning for Open-Set Cross-modal Retrieval](https://doi.org/10.1109/TIP.2026.3697620)，IEEE Transactions on Image Processing (TIP), 2026.
 - Yanglin Feng, Yang Qin, Dezhong Peng, Rui Wang, Xiaomin Song, **Peng Hu#**, [Multimodal Nested Learning for Decoupled and Coordinated Optimization](https://openreview.net/pdf?id=8XOncDWc5j), International Conference on Machine Learning (ICML), 2026.
 - Kaiqi Chen, Yang Qin, Changhao He, Xi Peng, **Peng Hu#**, [DOUBT: Decoupled Object-level Understanding and Bridging via vMF-based Trustworthiness for Hallucination Detection in MLLMs](https://openreview.net/pdf?id=QMf9CBpEIf), International Conference on Machine Learning (ICML), 2026.
